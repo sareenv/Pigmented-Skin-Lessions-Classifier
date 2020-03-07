@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.27)  2 MAR 2020 21:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  7 MAR 2020 21:35
 entering extended mode
-**C:/Users/Data/Desktop/FYP_report/main.tex
-(C:/Users/Data/Desktop/FYP_report/main.tex
-LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14>
-("C:\Users\Data\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+**./main.tex
+(main.tex
+LaTeX2e <2020-02-02> patch level 4
+L3 programming layer <2020-02-25>
+("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/report.cls"
 Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Users\Data\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
-File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
 \c@chapter=\count168
@@ -22,8 +22,8 @@ File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
-("C:\Users\Data\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.s
-ty"
+("/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex
+/fancyhdr/fancyhdr.sty"
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip49
@@ -36,26 +36,30 @@ s
 \f@nch@O@olf=\skip56
 \f@nch@O@orf=\skip57
 )
-("C:\Users\Data\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty
-"
+("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.
+sty"
 Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip58
 
 For additional information on amsmath, use the `?' option.
-("C:\Users\Data\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty
-"
+
+("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.
+sty"
 Package: amstext 2000/06/29 v2.01 AMS text
- ("C:\Users\Data\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
-"
+
+("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.s
+ty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks14
 \ex@=\dimen135
 ))
-("C:\Users\Data\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.s
+ty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen136
-) ("C:\Users\Data\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
-y"
+)
+("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.s
+ty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count176
@@ -96,12 +100,17 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
-("C:\Users\Data\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend
--pdfmode.def"
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3back
+end-pdfmode.def"
+File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count188
 \l__pdf_internal_box=\box47
-) (main.aux)
+)
+
+LaTeX Warning: Unused global option(s):
+    [13pt].
+
+(main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
@@ -124,10 +133,16 @@ LaTeX Warning: No \author given.
 
 [1
 
-{C:/Users/Data/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [1
+{/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/pdftex/config
+/pdftex.map}] (Chapters/originality.tex
+Overfull \hbox (6.52733pt too wide) in paragraph at lines 4--8
+\OT1/cmr/m/n/10 I acknowledge that the copyright of this project report, and an
+y product developed
+ []
 
-]
-(main.toc)
+) [1
+
+] (main.toc)
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
@@ -135,21 +150,13 @@ LaTeX Warning: No \author given.
 
 ] (Chapters/abstract.tex) [3
 
-] (Chapters/acknowledgements.tex)
-[4
+] (Chapters/acknowledgements.tex) [4
 
 ]
 Chapter 1.
 (Chapters/introduction.tex [5
 
-])
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
-Make it at least 14.49998pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
-
-[6]
+]) [6]
 Chapter 2.
 (Chapters/l_review.tex) [7
 
@@ -179,21 +186,24 @@ Chapter 7.
 
 ] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 1226 strings out of 481556
- 17190 string characters out of 2914337
- 251479 words of memory out of 3000000
- 16483 multiletter control sequences out of 15000+200000
- 539282 words of font info for 48 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 30i,10n,45p,773b,228s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Data/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb><C:/Users/Data/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Data/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Data/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on main.pdf (15 pages, 77181 bytes).
+ 1233 strings out of 483242
+ 17292 string characters out of 2960027
+ 247861 words of memory out of 3000000
+ 16489 multiletter control sequences out of 15000+200000
+ 538979 words of font info for 47 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 30i,10n,45p,742b,228s stack positions out of 5000i,500n,10000p,200000b,50000s
+</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/p
+ublic/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/instal
+l/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTe
+X/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application
+ Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Libra
+ry/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr
+17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/a
+msfonts/cm/cmsl10.pfb>
+Output written on main.pdf (15 pages, 115141 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
+ 75 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
