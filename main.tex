@@ -1,16 +1,29 @@
-\documentclass[13pt]{report}
+\documentclass[14pts]{report}
 \usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{natbib}
 \usepackage{amsmath}
+\fancyhead{}
+\fancyhead[LO, LE]{\rightmark}
+
 \title{
+	\begin{center}
 	{Convolutional Neural Network-based medical checkup system for Pigmented Skin Lesions Classification.} \\
 	\vspace{5mm} %5mm vertical space
-	{\large School of Computing, Engineering and Mathematics} \\
-	{\large Coventry University} \\
+	
+	\large {
+		{School of Computing, Engineering and Mathematics}\\
+		{Coventry University}\\
+	}
 	\vspace{3mm} %3mm vertical space
-	{\large Bsc Computer Science}\\
-	{\large Supervisor Dr.David Croft}\\
-	{\large Author Vinayak Sareen}\\
-	{\large Student Id 7651331}
+	\textbf{ Bsc Computer Science}\\
+	{\large Project Supervisor: Dr.David Croft}\\
+	{\large Submission Date: 21/04/2020} \\
+	\end{center}
+}
+\author{
+	{\large Author Name:  Vinayak Sareen} \\
+	{\large Student Id Number:  7651331}
 }
 \date{}
 \pagestyle{fancy}
@@ -19,10 +32,11 @@
 
 \chapter*{Statement of originality}
 \input{Chapters/originality}
-\tableofcontents
 
 \chapter*{Abstract}
 \input{Chapters/abstract}
+
+\tableofcontents
 
 \chapter*{Acknowledgements}
 \input{Chapters/acknowledgements}
@@ -30,34 +44,26 @@
 \chapter{Introduction}
 \input{Chapters/introduction}
 
-
 \chapter{Literature Review}
 \input{Chapters/l_review}
-% \addcontentsline{toc}{chapter}{Literature Review}
 
 \chapter{Methodology}
 \input{Chapters/methodology}
-% \addcontentsline{toc}{chapter}{Methodology}
 
 \chapter{Evaluations and Results}
 \input{Chapters/eval}
-% \addcontentsline{toc}{chapter}{Evaluations and Results}
 
-\chapter{Discussion}
-\input{Chapters/discussion}
-% \addcontentsline{toc}{chapter}{Discussion}
+\chapter{Project Managment}
+\input{Chapters/projectManagment}
 
 \chapter{Reflection}
 \input{Chapters/reflection}
-% \addcontentsline{toc}{chapter}{Reflection}
 
 \chapter{Conclusion}
 \input{Chapters/conclusion}
-% \addcontentsline{toc}{chapter}{Conclusion}
 
-\chapter*{References}
-\input{Chapters/ref}
-\addcontentsline{toc}{chapter}{References}
+\bibliographystyle{agsm}
+\bibliography{./References}
 
 \chapter*{Appendices}
 \input{Chapters/appendices}

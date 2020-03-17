@@ -1,13 +1,27 @@
-PWD /Users/databunker/Desktop/FYP
+PWD /Users/databunker/Desktop/FYP/FYP_report
 INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
-INPUT main.tex
-OUTPUT main.log
+INPUT /Users/databunker/Desktop/FYP/FYP_report/main.tex
+OUTPUT /Users/databunker/Desktop/FYP/FYP_report/main.log
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/report.cls
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/report.cls
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo
 INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/natbib/natbib.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/natbib/natbib.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
@@ -20,11 +34,32 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsop
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT main.aux
-INPUT main.aux
-OUTPUT main.aux
+INPUT /Users/databunker/Desktop/FYP/FYP_report/main.aux
+INPUT /Users/databunker/Desktop/FYP/FYP_report/main.aux
+OUTPUT /Users/databunker/Desktop/FYP/FYP_report/main.aux
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grfext/grfext.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grfext/grfext.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdftexcmds/pdftexcmds.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdftexcmds/pdftexcmds.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr17.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr8.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr6.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
@@ -36,46 +71,55 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cms
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-OUTPUT main.pdf
+OUTPUT /Users/databunker/Desktop/FYP/FYP_report/main.pdf
 INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr17.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
-INPUT Chapters/originality.tex
-INPUT Chapters/originality.tex
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/originality.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/originality.tex
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm
-INPUT main.toc
-INPUT main.toc
-OUTPUT main.toc
-INPUT Chapters/abstract.tex
-INPUT Chapters/abstract.tex
-INPUT Chapters/acknowledgements.tex
-INPUT Chapters/acknowledgements.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/abstract.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/abstract.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/main.toc
+INPUT /Users/databunker/Desktop/FYP/FYP_report/main.toc
+OUTPUT /Users/databunker/Desktop/FYP/FYP_report/main.toc
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/acknowledgements.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/acknowledgements.tex
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr17.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
-INPUT Chapters/introduction.tex
-INPUT Chapters/introduction.tex
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsl10.tfm
-INPUT Chapters/l_review.tex
-INPUT Chapters/l_review.tex
-INPUT Chapters/methodology.tex
-INPUT Chapters/methodology.tex
-INPUT Chapters/eval.tex
-INPUT Chapters/eval.tex
-INPUT Chapters/discussion.tex
-INPUT Chapters/discussion.tex
-INPUT Chapters/reflection.tex
-INPUT Chapters/reflection.tex
-INPUT Chapters/conclusion.tex
-INPUT Chapters/conclusion.tex
-INPUT Chapters/ref.tex
-INPUT Chapters/ref.tex
-INPUT Chapters/appendices.tex
-INPUT Chapters/appendices.tex
-INPUT main.aux
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/introduction.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/introduction.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Subsections/humanbrain.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Subsections/humanbrain.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/neuron.png
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/neuron.png
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/neuron.png
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/neuron.png
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/neuron.png
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Subsections/perceptronmodel.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Subsections/perceptronmodel.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/l_review.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/l_review.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/methodology.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/methodology.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/eval.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/eval.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/projectManagment.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/projectManagment.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/reflection.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/reflection.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/conclusion.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/conclusion.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/main.bbl
+INPUT /Users/databunker/Desktop/FYP/FYP_report/main.bbl
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmti10.tfm
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/appendices.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/appendices.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/main.aux
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
@@ -86,5 +130,5 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsf
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsl10.pfb
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsl10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb

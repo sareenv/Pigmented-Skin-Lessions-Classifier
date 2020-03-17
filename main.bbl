@@ -1,0 +1,31 @@
+\begin{thebibliography}{xx}
+
+\harvarditem[Celebi et~al.]{Celebi, Kingravi, Uddin, Iyatomi, Aslandogan,
+  Stoecker \harvardand\ Moss}{2007}{CELEBI2007362}
+Celebi, M.~E., Kingravi, H.~A., Uddin, B., Iyatomi, H., Aslandogan, Y.~A.,
+  Stoecker, W.~V. \harvardand\ Moss, R.~H.  \harvardyearleft
+  2007\harvardyearright , `A methodological approach to the classification of
+  dermoscopy images', {\em Computerized Medical Imaging and Graphics} {\bf
+  31}(6),~362 -- 373.
+\newline\harvardurl{http://www.sciencedirect.com/science/article/pii/S0895611107000146}
+
+\harvarditem{Korotkov \harvardand\ Garcia}{2012}{KOROTKOV201269}
+Korotkov, K. \harvardand\ Garcia, R.  \harvardyearleft 2012\harvardyearright ,
+  `Computerized analysis of pigmented skin lesions: A review', {\em Artificial
+  Intelligence in Medicine} {\bf 56}(2),~69 -- 90.
+\newline\harvardurl{http://www.sciencedirect.com/science/article/pii/S0933365712001108}
+
+\harvarditem[Loescher et~al.]{Loescher, Janda, Soyer, Shea \harvardand\
+  Curiel-Lewandrowski}{2013}{LOESCHER2013170}
+Loescher, L.~J., Janda, M., Soyer, H.~P., Shea, K. \harvardand\
+  Curiel-Lewandrowski, C.  \harvardyearleft 2013\harvardyearright , `Advances
+  in skin cancer early detection and diagnosis', {\em Seminars in Oncology
+  Nursing} {\bf 29}(3),~170 -- 181.
+\newblock Skin Cancer.
+\newline\harvardurl{http://www.sciencedirect.com/science/article/pii/S0749208113000338}
+
+\harvarditem{Patterson \harvardand\ Gibson}{2017}{patterson2017deep}
+Patterson, J. \harvardand\ Gibson, A.  \harvardyearleft 2017\harvardyearright ,
+  {\em Deep learning: A practitioner's approach}, " O'Reilly Media, Inc.".
+
+\end{thebibliography}
