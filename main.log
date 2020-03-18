@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  18 MAR 2020 15:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  18 MAR 2020 22:02
 entering extended mode
 **/Users/databunker/Desktop/FYP/FYP_report/main.tex
 (/Users/databunker/Desktop/FYP/FYP_report/main.tex
@@ -533,8 +533,8 @@ File: Images/neuron.png Graphic file (type png)
 Package pdftex.def Info: Images/neuron.png  used on input line 3.
 (pdftex.def)             Requested size: 284.52756pt x 149.56627pt.
 )
-Overfull \hbox (1.88031pt too wide) in paragraph at lines 6--42
-\OT1/cmr/m/n/10 information. Furthermore, the processed information gets passed to other neuron
+Overfull \hbox (3.6302pt too wide) in paragraph at lines 6--42
+\OT1/cmr/m/n/10 to the neuron. Furthermore, the neuron contains the nucleus which is accountable
  []
 
 (/Users/databunker/Desktop/FYP/FYP_report/Subsections/artneurons.tex
@@ -565,7 +565,27 @@ Overfull \hbox (3.76958pt too wide) in paragraph at lines 28--28
 
 ) [10]) [11]
 Chapter 2.
-(/Users/databunker/Desktop/FYP/FYP_report/Chapters/l_review.tex) [12
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/l_review.tex
+Overfull \hbox (6.83391pt too wide) in paragraph at lines 6--14
+\OT1/cmr/m/n/10 machine based classifier to detect multi-lesions skin cancer by analysing pigmented
+ []
+
+
+Overfull \hbox (18.584pt too wide) in paragraph at lines 6--14
+\OT1/cmr/m/n/10 classification performance based on vector-based technique (Thompson & Jeyakumar
+ []
+
+
+Overfull \hbox (2.6673pt too wide) in paragraph at lines 6--14
+\OT1/cmr/m/n/10 research papers mention that support vector machine for automated classification
+ []
+
+
+Overfull \hbox (3.08401pt too wide) in paragraph at lines 6--14
+\OT1/cmr/m/n/10 perform image augmentation to generate random samples of images with different
+ []
+
+) [12
 
 ]
 Chapter 3.
@@ -612,23 +632,44 @@ Overfull \hbox (1.03674pt too wide) in paragraph at lines 36--42
 \OT1/cmr/bx/n/10 URL: \OT1/cmr/m/it/10 http://www.sciencedirect.com/science/article/pii/S0749208113000338 
  []
 
+
+Underfull \hbox (badness 1199) in paragraph at lines 48--52
+[]\OT1/cmr/m/n/10 Thompson, F. & Jeyakumar, M. (2017), `Vector based classification of
+ []
+
 ) [18
 
-] (/Users/databunker/Desktop/FYP/FYP_report/Chapters/appendices.tex) [19
+] (/Users/databunker/Desktop/FYP/FYP_report/Chapters/appendices.tex
 
-] (/Users/databunker/Desktop/FYP/FYP_report/main.aux) ) 
+pdfTeX warning: pdflatex (file /Users/databunker/Desktop/FYP/FYP_report/Documents/consent.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<Documents/consent.pdf, id=80, 597.23125pt x 845.1575pt>
+File: Documents/consent.pdf Graphic file (type pdf)
+<use Documents/consent.pdf>
+Package pdftex.def Info: Documents/consent.pdf  used on input line 3.
+(pdftex.def)             Requested size: 426.79134pt x 603.97353pt.
+
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 3--4
+ [] 
+ []
+
+[19
+
+]
+Overfull \vbox (224.87628pt too high) has occurred while \output is active []
+
+ [20 </Users/databunker/Desktop/FYP/FYP_report/Documents/consent.pdf>]) [21] (/Users/databunker/Desktop/FYP/FYP_report/main.aux) ) 
 Here is how much of TeX's memory you used:
- 26070 strings out of 483242
- 681813 string characters out of 2960027
- 1027502 words of memory out of 3000000
- 40847 multiletter control sequences out of 15000+200000
+ 26080 strings out of 483242
+ 682060 string characters out of 2960027
+ 1027541 words of memory out of 3000000
+ 40855 multiletter control sequences out of 15000+200000
  539279 words of font info for 48 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  63i,19n,98p,938b,1137s stack positions out of 5000i,500n,10000p,200000b,50000s
 </Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (20 pages, 234982 bytes).
+Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (22 pages, 420564 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
+ 140 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 28 words of extra memory for PDF output out of 10000 (max. 10000000)
 

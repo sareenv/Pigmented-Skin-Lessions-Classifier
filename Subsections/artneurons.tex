@@ -6,10 +6,10 @@
 Preceptron model was proposed by Frank Rosenblatt in 1943 to design the model to 
 mimic the human brain \citep*{939589}. Preceptron model or single layered feed forwards network 
 networks takes the vectors of inputs and multiply with a randomly 
-initialised weights and add random bias to network and process the information by providing data to the activation function to process the information.
-There are various activation function such as  step function sigmoid, 
-relu, leaky relu and other activation functions and outputs the result \citep{AGATONOVICKUSTRIN2000717}.
-Figure above represents the inputs x and weights w for which weighted sum of muliplication result of 
+initialised weights and add random bias to network and process the information by providing data to the
+activation function to process the information \citep*{AGATONOVICKUSTRIN2000717}.
+Figure above represents the simple preceptron model which consists inputs x and weights w 
+for which weighted sum of muliplication result of 
 inputs and weights will be passed to step activation function.
 
 \subsection{Mathematical Representation }
@@ -21,9 +21,10 @@ inputs and weights will be passed to step activation function.
     \end{split}
 \end{equation}
 
-$ {\sigma = Activation function ,
-        x = input , 
-        w = weights ,
-        y = prediction , 
-        b = bias
-    } $ 
+     {
+        In, euation above ${\sigma = Activation function}$, x and w represents the inputs provided 
+        and weights vectors in the network respectively. Furthermore symbol b represents the  bias in the equation, 
+        during the optimisation of the network weights and bias are adjusted accordingly to improve the 
+        predection. There are various activation functions ${\sigma}$ such as  step function sigmoid, 
+        relu, leaky relu and others that can be applied based on the requirments of model prediction.
+    }
