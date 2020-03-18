@@ -1,5 +1,13 @@
 \begin{thebibliography}{xx}
 
+\harvarditem{Agatonovic-Kustrin \harvardand\
+  Beresford}{2000}{AGATONOVICKUSTRIN2000717}
+Agatonovic-Kustrin, S. \harvardand\ Beresford, R.  \harvardyearleft
+  2000\harvardyearright , `Basic concepts of artificial neural network (ann)
+  modeling and its application in pharmaceutical research', {\em Journal of
+  Pharmaceutical and Biomedical Analysis} {\bf 22}(5),~717 -- 727.
+\newline\harvardurl{http://www.sciencedirect.com/science/article/pii/S0731708599002721}
+
 \harvarditem[Celebi et~al.]{Celebi, Kingravi, Uddin, Iyatomi, Aslandogan,
   Stoecker \harvardand\ Moss}{2007}{CELEBI2007362}
 Celebi, M.~E., Kingravi, H.~A., Uddin, B., Iyatomi, H., Aslandogan, Y.~A.,
@@ -14,6 +22,14 @@ Korotkov, K. \harvardand\ Garcia, R.  \harvardyearleft 2012\harvardyearright ,
   `Computerized analysis of pigmented skin lesions: A review', {\em Artificial
   Intelligence in Medicine} {\bf 56}(2),~69 -- 90.
 \newline\harvardurl{http://www.sciencedirect.com/science/article/pii/S0933365712001108}
+
+\harvarditem[{Kussul} et~al.]{{Kussul}, {Baidyk}, {Kasatkina} \harvardand\
+  {Lukovich}}{2001}{939589}
+{Kussul}, E., {Baidyk}, T., {Kasatkina}, L. \harvardand\ {Lukovich}, V.
+  \harvardyearleft 2001\harvardyearright , Rosenblatt perceptrons for
+  handwritten digit recognition, {\em in} `IJCNN'01. International Joint
+  Conference on Neural Networks. Proceedings (Cat. No.01CH37222)', Vol.~2,
+  pp.~1516--1520 vol.2.
 
 \harvarditem[Loescher et~al.]{Loescher, Janda, Soyer, Shea \harvardand\
   Curiel-Lewandrowski}{2013}{LOESCHER2013170}

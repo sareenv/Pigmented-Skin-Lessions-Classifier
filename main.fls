@@ -90,17 +90,6 @@ INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/introduction.tex
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/introduction.tex
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/psl.tex
-INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/psl.tex
-INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/bkl.png
-INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/bkl.png
-INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/bkl.png
-INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/bkl.png
-INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/bkl.png
-INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/bkl.png
-INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/bkl.png
-INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/bkl.png
-INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/bkl.png
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Subsections/humanbrain.tex
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Subsections/humanbrain.tex
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/neuron.png
@@ -108,6 +97,13 @@ INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/neuron.png
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/neuron.png
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/neuron.png
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/neuron.png
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Subsections/artneurons.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Subsections/artneurons.tex
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/p_model.png
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/p_model.png
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/p_model.png
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/p_model.png
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/p_model.png
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Subsections/perceptronmodel.tex
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Subsections/perceptronmodel.tex
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/l_review.tex
@@ -132,11 +128,19 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsf
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb
