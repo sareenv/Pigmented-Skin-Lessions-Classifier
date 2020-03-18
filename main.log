@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  18 MAR 2020 03:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  18 MAR 2020 03:47
 entering extended mode
 **/Users/databunker/Desktop/FYP/FYP_report/main.tex
 (/Users/databunker/Desktop/FYP/FYP_report/main.tex
@@ -246,23 +246,18 @@ Overfull \hbox (1.88031pt too wide) in paragraph at lines 6--41
 \OT1/cmr/m/n/10 information. Furthermore, the processed information gets passed to other neuron
  []
 
-[8 </Users/databunker/Desktop/FYP/FYP_report/Images/neuron.png>] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/artneurons.tex
-<Images/p_model.png, id=38, 386.44376pt x 254.9525pt>
+(/Users/databunker/Desktop/FYP/FYP_report/Subsections/artneurons.tex
+<Images/p_model.png, id=34, 386.44376pt x 254.9525pt>
 File: Images/p_model.png Graphic file (type png)
 <use Images/p_model.png>
 Package pdftex.def Info: Images/p_model.png  used on input line 3.
 (pdftex.def)             Requested size: 207.0021pt x 136.56744pt.
-
-Overfull \hbox (26.61174pt too wide) in paragraph at lines 17--18
+ [8 </Users/databunker/Desktop/FYP/FYP_report/Images/neuron.png>]
+Overfull \hbox (26.61174pt too wide) in paragraph at lines 18--19
 \OT1/cmr/m/n/10 The equation below represents the preceptron model mentioned above in Mathematical
  []
 
-)
-Overfull \hbox (2.55447pt too wide) in paragraph at lines 24--44
-[]$[]$
- []
-
-[9 </Users/databunker/Desktop/FYP/FYP_report/Images/p_model.png>] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/perceptronmodel.tex) [10]) [11]
+) [9 </Users/databunker/Desktop/FYP/FYP_report/Images/p_model.png>] (/Users/databunker/Desktop/FYP/FYP_report/Chapters/ann.tex) [10] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/perceptronmodel.tex)) [11]
 Chapter 2.
 (/Users/databunker/Desktop/FYP/FYP_report/Chapters/l_review.tex) [12
 
@@ -317,15 +312,15 @@ Overfull \hbox (1.03674pt too wide) in paragraph at lines 36--42
 
 ] (/Users/databunker/Desktop/FYP/FYP_report/main.aux) ) 
 Here is how much of TeX's memory you used:
- 3159 strings out of 483242
- 46101 string characters out of 2960027
- 299651 words of memory out of 3000000
- 18337 multiletter control sequences out of 15000+200000
+ 3163 strings out of 483242
+ 46230 string characters out of 2960027
+ 298651 words of memory out of 3000000
+ 18338 multiletter control sequences out of 15000+200000
  539279 words of font info for 48 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 30i,19n,45p,938b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,19n,45p,938b,318s stack positions out of 5000i,500n,10000p,200000b,50000s
 </Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (20 pages, 234689 bytes).
+Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (20 pages, 234007 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
