@@ -1,14 +1,14 @@
 \babel@toc {nil}{}
 \contentsline {chapter}{\numberline {1}Introduction}{6}%
-\contentsline {section}{\numberline {1.1}Introduction}{6}%
-\contentsline {paragraph}{}{7}%
-\contentsline {section}{\numberline {1.2}Perceptron Model}{8}%
-\contentsline {subsection}{\numberline {1.2.1}Inspiration from biological Structure of Neurons}{8}%
-\contentsline {subsection}{\numberline {1.2.2}Neural Structure}{8}%
-\contentsline {subsection}{\numberline {1.2.3}Perceptron Model}{9}%
-\contentsline {subsection}{\numberline {1.2.4}Mathematical Representation }{9}%
-\contentsline {section}{\numberline {1.3}Artifical Neural Networks}{10}%
-\contentsline {subsection}{\numberline {1.3.1}Cost Function and Backpropagation Algorithm}{11}%
+\contentsline {section}{\numberline {1.1}Introduction to Problem}{6}%
+\contentsline {section}{\numberline {1.2}Objective of Research}{7}%
+\contentsline {section}{\numberline {1.3}Perceptron Model}{8}%
+\contentsline {subsection}{\numberline {1.3.1}Inspiration from biological Structure of Neurons}{8}%
+\contentsline {subsection}{\numberline {1.3.2}Neural Structure}{8}%
+\contentsline {subsection}{\numberline {1.3.3}Perceptron Model}{9}%
+\contentsline {subsection}{\numberline {1.3.4}Mathematical Representation }{9}%
+\contentsline {section}{\numberline {1.4}Multi Layered Feed Forward Neural Network}{10}%
+\contentsline {subsection}{\numberline {1.4.1}Cost Function and Backpropagation Algorithm}{11}%
 \contentsline {chapter}{\numberline {2}Literature Review}{12}%
 \contentsline {chapter}{\numberline {3}Methodology}{13}%
 \contentsline {chapter}{\numberline {4}Evaluations and Results}{14}%
