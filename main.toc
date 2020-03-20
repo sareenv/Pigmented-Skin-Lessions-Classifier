@@ -12,10 +12,10 @@
 \contentsline {chapter}{\numberline {2}Literature Review}{12}%
 \contentsline {subsection}{\numberline {2.0.1}Convential Diagnosis Methods}{12}%
 \contentsline {subsection}{\numberline {2.0.2}Support Vector Based Machine}{12}%
-\contentsline {subsection}{\numberline {2.0.3}Border Detection Based System}{12}%
-\contentsline {chapter}{\numberline {3}Methodology}{13}%
-\contentsline {chapter}{\numberline {4}Evaluations and Results}{14}%
-\contentsline {chapter}{\numberline {5}Project Managment}{15}%
-\contentsline {chapter}{\numberline {6}Reflection}{16}%
-\contentsline {chapter}{\numberline {7}Conclusion}{17}%
-\contentsline {chapter}{Appendices}{21}%
+\contentsline {subsection}{\numberline {2.0.3}Border Detection Based System}{13}%
+\contentsline {chapter}{\numberline {3}Methodology}{14}%
+\contentsline {chapter}{\numberline {4}Evaluations and Results}{15}%
+\contentsline {chapter}{\numberline {5}Project Managment}{16}%
+\contentsline {chapter}{\numberline {6}Reflection}{17}%
+\contentsline {chapter}{\numberline {7}Conclusion}{18}%
+\contentsline {chapter}{Appendices}{23}%

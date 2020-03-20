@@ -1,6 +1,14 @@
 \subsection{Convential Diagnosis Methods}
-Dermatoscopy is non-invasive microscopic imaging of pigmented skin lesions. The results of dermoscopy are further accessed by the dermatologists to classify the pigmented skin lesion. The current diagnosis method of detection involves using ABCD rule which considers the Asymmetry, Border irregularity, Colour irregularities, Darmascopic structures respectively of 
-common pigmented skin lesions \citep*{LOESCHER2013170}.
+
+The most common conventional diagnosis method of detection involves
+using ABCD rule which considers the Asymmetry, Border irregularity, Colour
+irregularities,  Darmascopic structures respectively of common pigmented skin
+Lesions \citep*{LOESCHER2013170}. The above method of analysis is performed on dermoscopic images of pigmented 
+skin lesions.  Dermatoscopy is non-invasive microscopic imaging of
+ pigmented skin lesions which provides clear imaging to perform 
+ proper analysis on pigmented skin lesions \citep*{LOESCHER2013170}. 
+ Furthermore, the result of dermatoscopic images is examined 
+ by dermatologists to classify the pigmented skin lesion.  
 
 \subsection{Support Vector Based Machine}
 Thompson Felsia and Jeyakumar proposed research in 2017 on 
@@ -13,3 +21,29 @@ potentially increase the false positives which mean that predicted result for an
 samples of images with different rotation angle and flipped images will be used to train and test the model to generalise the overall performance.
 
 \subsection{Border Detection Based System}
+Rahil Garnavi and his other co-researchers purposed research based on a state of the art border detection method combined with the colour space analysis and clustering-based histogram hybrid thresholding to classify pigmented skin lesions.
+ The research was primarily focused on the research was to develop the hair removal mechanism to perform colour channels transformation. Furthermore, for all the image channels the noise reduction 
+and clustering-based histogram thresholding were performed for optimal border detection. The predicted outcomes of novel broder detection system were compared with the 
+borders detected by the actual dermatologists on a sample of 
+dermoscopic pigmented skin lesions to understand the reliability of the 
+system \citep*{GARNAVI2011105}.However, the system was only tested on a data sample set of 
+30 dermoscopic images and four sample sets of dermatologist hand-drawn images were used as ground truth to compare the results. The system was tested on overall 85 dermoscopic images.
+Border detection can be used to analyse the pigmented skin lesions but convolutional networks have the potential to find more data patterns in the images to minimise the cost function 
+using the backpropagation algorithm. The current research will 
+employe basic image segmentation based on the binary threshold 
+algorithm as an experiment to help network detecting more accurate
+borders of pigmented skin lesions.
+
+\subsection*{Deep Feature to classify Pigmented Skin lesions}
+
+In 2016, a research paper from Simon Fraser University’s computer science and medical image analysis lab had researched using 
+deep residual network architecture with ten labelled 
+classes of pigmented skin lesions. The research was based on very 
+deep convolutional network architecture with the accuracy 
+of 85.8 percent in classifying five distinct classes and
+81 percent in classifying 10 classes of pigmented skin lesions
+\citep*{7493528}. Although the performance of the overall convolutional network was accurate, the training and testing data were limited to 13,00 overall images of 10 distinct classes.
+ However, In the current research project, the classes of labelled images will be five and around 9,000 overall images will be used during the investigation.
+ Estimated 80 percent of data will be consumed for training the model, and the rest of the label images will be used as validation and testing datasets 
+ to evaluate the performance of the model. 
+ Research is also consuming such artificial neural network-based technologies to various areas of investigations.
