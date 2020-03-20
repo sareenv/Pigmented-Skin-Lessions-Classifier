@@ -11,11 +11,11 @@
 \contentsline {subsection}{\numberline {1.4.1}Cost Function and Backpropagation Algorithm}{11}%
 \contentsline {chapter}{\numberline {2}Literature Review}{12}%
 \contentsline {subsection}{\numberline {2.0.1}Convential Diagnosis Methods}{12}%
-\contentsline {subsection}{\numberline {2.0.2}Support Vector Based Machine}{12}%
+\contentsline {subsection}{\numberline {2.0.2}Support Vector Based Machine}{13}%
 \contentsline {subsection}{\numberline {2.0.3}Border Detection Based System}{13}%
-\contentsline {chapter}{\numberline {3}Methodology}{14}%
-\contentsline {chapter}{\numberline {4}Evaluations and Results}{15}%
-\contentsline {chapter}{\numberline {5}Project Managment}{16}%
-\contentsline {chapter}{\numberline {6}Reflection}{17}%
-\contentsline {chapter}{\numberline {7}Conclusion}{18}%
-\contentsline {chapter}{Appendices}{24}%
+\contentsline {chapter}{\numberline {3}Methodology}{15}%
+\contentsline {chapter}{\numberline {4}Evaluations and Results}{16}%
+\contentsline {chapter}{\numberline {5}Project Managment}{17}%
+\contentsline {chapter}{\numberline {6}Reflection}{18}%
+\contentsline {chapter}{\numberline {7}Conclusion}{19}%
+\contentsline {chapter}{Appendices}{25}%
