@@ -5,4 +5,8 @@ Warning--entry type for "DVN/DBW86T_2018" isn't style-file defined
 --line 113 of file ./References.bib
 Warning--I'm ignoring DanielJensen2015's extra "note" field
 --line 177 of file ./References.bib
-(There were 2 warnings)
+I was expecting an "="---line 222 of file ./References.bib
+ : @misc{brownlee_2020,[break] 
+ :                             title={How to One Hot Encode Sequence Data in Python},[break] url={https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/},[break] journal={Machine Learning Mastery},[break] author={Brownlee, Jason},[break] year={2020}
+I'm skipping whatever remains of this entry
+(There was 1 error message)

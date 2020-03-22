@@ -14,6 +14,9 @@
 \contentsline {subsection}{\numberline {2.0.2}Support Vector Based Machine}{12}%
 \contentsline {subsection}{\numberline {2.0.3}Border Detection Based System}{12}%
 \contentsline {chapter}{\numberline {3}Methodology}{14}%
+\contentsline {section}{\numberline {3.1}Data Processing and Normalisation}{14}%
+\contentsline {subsection}{\numberline {3.1.1}Data Normalisation}{15}%
+\contentsline {subsection}{\numberline {3.1.2} Image Segmentation }{15}%
 \contentsline {chapter}{\numberline {4}Evaluations and Results}{16}%
 \contentsline {chapter}{\numberline {5}Project Managment}{17}%
 \contentsline {chapter}{\numberline {6}Reflection}{18}%

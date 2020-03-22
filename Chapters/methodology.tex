@@ -1,5 +1,30 @@
-The research purposes a solution based on deep convolutional neural networks with various experiments mentioned in further sections. The operations require machine learning specific configuration for Cuda libraries and configuration to run programs on available GPU(Graphical Processing Unit) for faster processing and further, instructions to setup environment can be found at \url{https://www.tensorflow.org/install/gpu}. In addition, jupyter notebooks were used in these experiments, which provides an appropriate interface to experiment and write markdowns. The data science and machine learning libraries such as NumPy for numerical operations, matplotlib for visualisation, Keras for developing deep learning models and OpenCV for image processing was used in the process of developing an automated system for classifying pigmented skin lesions. HAM,1000 dataset was used to train image classifier, which can be found at
+The research purposes a solution based on deep convolutional neural networks with various experiments mentioned in further sections.
+The operations require machine learning specific configuration for Cuda libraries and configuration to run programs on available GPU(Graphical Processing Unit) for faster processing and further, 
+instructions to setup environment can be found at \url{https://www.tensorflow.org/install/gpu}. 
+In addition, jupyter notebooks were used in these experiments, 
+which provides an appropriate interface to experiment and write markdowns.
+The data science and machine learning libraries such as NumPy for numerical operations, matplotlib for visualisation, Keras for developing deep learning models and OpenCV for image processing was used in the process of developing an automated system for classifying pigmented skin lesions.
+HAM,1000 dataset was used to train image classifier, which can be found at
 \url{https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T}. The dataset contains two folders containing dermatoscopic images of pigmented skin lesion and CSV file which contains meta information and image name for each pigmented skin lesion.
 
-\section*{Data Prepration}
-The information present in the dataset for not in a usable form. Datasets contain unclear and hairy images of pigmented skin lesions which were manually removed from the dataset to enhance the quality of available data. The information was read using pandas into the data frame, which is a data structure that allows storing tabular data from CSV files. The CSV file contained irrelevant information such as gender and age of patients and unbalanced data classes data columns were dropped from the dataset. Furthermore, the dataset was divided into training and testing sets using \url{sklearn.model_selection.train_test_split} class in the portion of 80 per cent for the training dataset and 20 per cent of testing datasets. The next step towards to preparing the dataset was reading the images data into NumPy array for both training and testing datasets and converting the image names from pandas series to NumPy array corresponding to each image in the dataset.
+\section{Data Processing and Normalisation}
+The information present in the dataset for not in a usable form. Datasets contain unclear and hairy images of pigmented skin lesions 
+which were manually removed from the dataset to enhance the quality of available data. The information was read using pandas into the data frame, 
+which is a data structure that allows storing tabular data from CSV files. The CSV file contained irrelevant information such as gender and age of 
+patients and unbalanced data classes data columns were dropped from the dataset. Furthermore, the dataset was divided into training and 
+testing sets using \url{sklearn.model_selection.train_test_split} class in the portion of 80 per cent for 
+the training dataset and 20 per cent of testing datasets. The next step towards to preparing the dataset was reading the images data into NumPy 
+array for both training and testing datasets and converting the image names from pandas series to NumPy array corresponding to each image and assign class number 
+based on category of pigmented skin lesion in the dataset. Furthermore, the training and testing datasets were serialised into 
+dictionary in a pickle encoded file. Therefore, the encoded file sizes are compact and are portable
+in comparison to storing actual image files.
+
+\subsection{Data Normalisation}
+The images RGB images numpy array was mutli-demensional array with numbers ranging from 0 to 255. The numpy array was 
+converted into the float32 format and each element of the array was divided by 255 to normalise the data so, that 
+it only ranges between 0 and 1 in float format which will help while training the model. In addition, one hot encoding 
+was performed on class labels of the pigmented lesions. The one hot encoding is a representation of categorical variable 
+as binary vector and normalise the categorical labels into binary vector.
+
+\subsection{ Image Segmentation }
+Code .....
