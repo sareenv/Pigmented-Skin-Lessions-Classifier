@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  25 MAR 2020 02:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  25 MAR 2020 13:49
 entering extended mode
 **/Users/databunker/Desktop/FYP/FYP_report/main.tex
 (/Users/databunker/Desktop/FYP/FYP_report/main.tex
@@ -518,8 +518,13 @@ Overfull \hbox (3.52731pt too wide) in paragraph at lines 4--8
 ]
 Chapter 1.
 (/Users/databunker/Desktop/FYP/FYP_report/Chapters/introduction.tex
-Overfull \hbox (6.21355pt too wide) in paragraph at lines 4--21
-\OT1/cmr/m/n/10 systems in an inconvenient manner. Medical institutions can use such technologies
+Overfull \hbox (1.83397pt too wide) in paragraph at lines 4--21
+\OT1/cmr/m/n/10 considers the Asymmetry, Border irregularity, Colour irregularities, Darmascopic
+ []
+
+
+Overfull \hbox (4.08395pt too wide) in paragraph at lines 4--21
+\OT1/cmr/m/n/10 analysis of pigmented skin lesions using artificial neural networks can be beneficial
  []
 
 [5
@@ -583,11 +588,6 @@ Overfull \hbox (18.63841pt too wide) in paragraph at lines 3--42
 \OT1/cmr/m/n/10 ABCD rule which considers the Asymmetry, Border irregularity, Colour irregularities
  []
 
-
-Overfull \hbox (4.69507pt too wide) in paragraph at lines 3--42
-\OT1/cmr/m/n/10 are more accurate to diagnose and has been an aid for early detection of melanoma
- []
-
 [11
 
 ]
@@ -620,7 +620,7 @@ Overfull \hbox (10.24138pt too wide) in paragraph at lines 54--67
 \OT1/cmr/m/n/10 thresholding were performed for optimal border detection. The predicted outcomes
  []
 
-[12]) [13]
+) [12] [13]
 Chapter 3.
 (/Users/databunker/Desktop/FYP/FYP_report/Chapters/methodology.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--8
@@ -675,7 +675,12 @@ File: Images/bseg.png Graphic file (type png)
 <use Images/bseg.png>
 Package pdftex.def Info: Images/bseg.png  used on input line 2.
 (pdftex.def)             Requested size: 284.52756pt x 249.95627pt.
- [15 </Users/databunker/Desktop/FYP/FYP_report/Images/bseg.png>]
+
+Overfull \hbox (3.13026pt too wide) in paragraph at lines 10--18
+\OT1/cmr/m/n/10 tasks. Futhermore, the segmented images will be consumed in the model training.
+ []
+
+[15 </Users/databunker/Desktop/FYP/FYP_report/Images/bseg.png>]
 <Images/aseg.png, id=75, 729.47531pt x 633.11531pt>
 File: Images/aseg.png Graphic file (type png)
 <use Images/aseg.png>
@@ -777,13 +782,13 @@ Overfull \vbox (86.57361pt too high) has occurred while \output is active []
 Here is how much of TeX's memory you used:
  26212 strings out of 483242
  684608 string characters out of 2960027
- 1029090 words of memory out of 3000000
+ 1029091 words of memory out of 3000000
  40966 multiletter control sequences out of 15000+200000
  539615 words of font info for 50 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  63i,19n,98p,938b,1139s stack positions out of 5000i,500n,10000p,200000b,50000s
 </Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (27 pages, 2451270 bytes).
+Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (27 pages, 2450908 bytes).
 PDF statistics:
  206 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
