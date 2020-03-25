@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  25 MAR 2020 14:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  25 MAR 2020 14:17
 entering extended mode
 **/Users/databunker/Desktop/FYP/FYP_report/main.tex
 (/Users/databunker/Desktop/FYP/FYP_report/main.tex
@@ -518,39 +518,29 @@ Overfull \hbox (3.52731pt too wide) in paragraph at lines 4--8
 ]
 Chapter 1.
 (/Users/databunker/Desktop/FYP/FYP_report/Chapters/introduction.tex
-Overfull \hbox (1.83397pt too wide) in paragraph at lines 4--21
-\OT1/cmr/m/n/10 considers the Asymmetry, Border irregularity, Colour irregularities, Darmascopic
+Overfull \hbox (3.69508pt too wide) in paragraph at lines 4--21
+\OT1/cmr/m/n/10 data provided by a cancer research organisation in 2017 has shown that melanoma
  []
 
 
-Overfull \hbox (4.08395pt too wide) in paragraph at lines 4--21
-\OT1/cmr/m/n/10 analysis of pigmented skin lesions using artificial neural networks can be beneficial
+Overfull \hbox (1.41724pt too wide) in paragraph at lines 4--21
+\OT1/cmr/m/n/10 Darmascopic structures respectively of common pigmented skin lesions (Loescher
+ []
+
+
+Overfull \hbox (6.21355pt too wide) in paragraph at lines 4--21
+\OT1/cmr/m/n/10 systems in an inconvenient manner. Medical institutions can use such technologies
  []
 
 [5
 
-]
-Overfull \hbox (16.9359pt too wide) in paragraph at lines 23--34
-\OT1/cmr/m/n/10 than medical professional in examining the pigmented skin lesions. The investigation
- []
-
-
-Overfull \hbox (5.3526pt too wide) in paragraph at lines 23--34
-\OT1/cmr/m/n/10 employs publicly available HAM10,000 dataset (Tschandl 2018). The HAM10,000
- []
-
-[6] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/humanbrain.tex
+] [6] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/humanbrain.tex
 <Images/neuron.png, id=32, 391.4625pt x 205.76875pt>
 File: Images/neuron.png Graphic file (type png)
 <use Images/neuron.png>
 Package pdftex.def Info: Images/neuron.png  used on input line 3.
 (pdftex.def)             Requested size: 284.52756pt x 149.56627pt.
-)
-Overfull \hbox (3.6302pt too wide) in paragraph at lines 6--42
-\OT1/cmr/m/n/10 to the neuron. Furthermore, the neuron contains the nucleus which is accountable
- []
-
-(/Users/databunker/Desktop/FYP/FYP_report/Subsections/artneurons.tex
+) (/Users/databunker/Desktop/FYP/FYP_report/Subsections/artneurons.tex
 <Images/p_model.png, id=34, 386.44376pt x 254.9525pt>
 File: Images/p_model.png Graphic file (type png)
 <use Images/p_model.png>
@@ -562,7 +552,7 @@ Overfull \hbox (26.61174pt too wide) in paragraph at lines 17--18
  []
 
 ) [8 </Users/databunker/Desktop/FYP/FYP_report/Images/p_model.png>]
-Overfull \hbox (4.60793pt too wide) in paragraph at lines 45--45
+Overfull \hbox (4.60793pt too wide) in paragraph at lines 44--44
 []\OT1/cmr/bx/n/14.4 Multi Layered Feed Forward Neural Network 
  []
 
@@ -786,9 +776,9 @@ Here is how much of TeX's memory you used:
  40966 multiletter control sequences out of 15000+200000
  539615 words of font info for 50 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 63i,19n,98p,938b,1139s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 63i,19n,98p,941b,1139s stack positions out of 5000i,500n,10000p,200000b,50000s
 </Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (27 pages, 2450880 bytes).
+Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (27 pages, 2450945 bytes).
 PDF statistics:
  206 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
