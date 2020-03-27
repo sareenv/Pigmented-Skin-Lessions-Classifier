@@ -18,9 +18,10 @@
 \contentsline {subsection}{\numberline {3.1.1}Data Normalisation}{15}%
 \contentsline {subsection}{\numberline {3.1.2} Image Segmentation }{15}%
 \contentsline {section}{\numberline {3.2}Thresholding Segmentation Algorithm}{16}%
-\contentsline {chapter}{\numberline {4}Evaluations and Results}{17}%
-\contentsline {chapter}{\numberline {5}Project Managment}{18}%
-\contentsline {chapter}{\numberline {6}Reflection}{19}%
-\contentsline {chapter}{\numberline {7}Conclusion}{20}%
-\contentsline {chapter}{\numberline {8}Appendices}{23}%
-\contentsline {chapter}{Appendices}{26}%
+\contentsline {section}{\numberline {3.3}Convolutional Model Training}{17}%
+\contentsline {chapter}{\numberline {4}Evaluations and Results}{19}%
+\contentsline {chapter}{\numberline {5}Project Managment}{20}%
+\contentsline {chapter}{\numberline {6}Reflection}{21}%
+\contentsline {chapter}{\numberline {7}Conclusion}{22}%
+\contentsline {chapter}{\numberline {8}Appendices}{25}%
+\contentsline {chapter}{Appendices}{28}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  25 MAR 2020 14:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  25 MAR 2020 18:15
 entering extended mode
 **/Users/databunker/Desktop/FYP/FYP_report/main.tex
 (/Users/databunker/Desktop/FYP/FYP_report/main.tex
@@ -112,7 +112,50 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \mathdisplay@stack=\toks19
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
-) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty"
+) ("/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/adjustbox.sty"
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkeyval.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkvutils.tex"
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count189
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) ("/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/adjcalc.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) ("/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/trimclip.sty"
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+ ("/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/collectbox/collectbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box47
+)
+\tc@llx=\dimen146
+\tc@lly=\dimen147
+\tc@urx=\dimen148
+\tc@ury=\dimen149
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ ("/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/tc-pdftex.def"
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen150
+\adjbox@Height=\dimen151
+\adjbox@Depth=\dimen152
+\adjbox@Totalheight=\dimen153
+\adjbox@pwidth=\dimen154
+\adjbox@pheight=\dimen155
+\adjbox@pdepth=\dimen156
+\adjbox@ptotalheight=\dimen157
+ ("/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ifoddpage/ifoddpage.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count190
+) ("/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/varwidth/varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box48
+\sift@deathcycles=\count191
+\@vwid@loff=\dimen158
+\@vwid@roff=\dimen159
+)) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty"
 Package: babel 2020/02/14 3.40 The Babel package
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/switch.def"
 File: switch.def 2020/02/14 3.40 Babel switching mechanism
@@ -129,11 +172,11 @@ Package babel Info: You haven't specified a language. I'll use 'nil'
 Language: nil 2020/02/14 3.40 Nil language
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.def"
 File: babel.def 2020/02/14 3.40 Babel common definitions
-\babel@savecnt=\count189
-\U@D=\dimen146
+\babel@savecnt=\count192
+\U@D=\dimen160
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/txtbabel.def")
 \bbl@readstream=\read2
-\bbl@dirlevel=\count190
+\bbl@dirlevel=\count193
 )
 \l@nil=\language1
 )) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/blindtext/blindtext.sty"
@@ -141,30 +184,30 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count191
-\c@Blindtext=\count192
-\c@blind@countparstart=\count193
-\blind@countxx=\count194
-\blindtext@numBlindtext=\count195
-\blind@countyy=\count196
-\c@blindlist=\count197
-\c@blindlistlevel=\count198
-\c@blindlist@level=\count199
-\blind@listitem=\count266
-\c@blind@listcount=\count267
-\c@blind@levelcount=\count268
-\blind@mathformula=\count269
-\blind@Mathformula=\count270
-\c@blind@randomcount=\count271
-\c@blind@randommax=\count272
-\c@blind@pangramcount=\count273
-\c@blind@pangrammax=\count274
+\c@blindtext=\count194
+\c@Blindtext=\count195
+\c@blind@countparstart=\count196
+\blind@countxx=\count197
+\blindtext@numBlindtext=\count198
+\blind@countyy=\count199
+\c@blindlist=\count266
+\c@blindlistlevel=\count267
+\c@blindlist@level=\count268
+\blind@listitem=\count269
+\c@blind@listcount=\count270
+\c@blind@levelcount=\count271
+\blind@mathformula=\count272
+\blind@Mathformula=\count273
+\c@blind@randomcount=\count274
+\c@blind@randommax=\count275
+\c@blind@pangramcount=\count276
+\c@blind@pangrammax=\count277
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty" ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty" ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex"
-\pgfutil@everybye=\toks20
-\pgfutil@tempdima=\dimen147
-\pgfutil@tempdimb=\dimen148
+\pgfutil@everybye=\toks22
+\pgfutil@tempdima=\dimen161
+\pgfutil@tempdimb=\dimen162
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-common-lists.tex")) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def"
-\pgfutil@abb=\box47
+\pgfutil@abb=\box49
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ms/everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 )) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revision.tex")
@@ -174,31 +217,31 @@ Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty" ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex"
 Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex"
-\pgfkeys@pathtoks=\toks21
-\pgfkeys@temptoks=\toks22
+\pgfkeys@pathtoks=\toks23
+\pgfkeys@temptoks=\toks24
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex"
-\pgfkeys@tmptoks=\toks23
+\pgfkeys@tmptoks=\toks25
 ))
-\pgf@x=\dimen149
-\pgf@y=\dimen150
-\pgf@xa=\dimen151
-\pgf@ya=\dimen152
-\pgf@xb=\dimen153
-\pgf@yb=\dimen154
-\pgf@xc=\dimen155
-\pgf@yc=\dimen156
-\pgf@xd=\dimen157
-\pgf@yd=\dimen158
+\pgf@x=\dimen163
+\pgf@y=\dimen164
+\pgf@xa=\dimen165
+\pgf@ya=\dimen166
+\pgf@xb=\dimen167
+\pgf@yb=\dimen168
+\pgf@xc=\dimen169
+\pgf@yc=\dimen170
+\pgf@xd=\dimen171
+\pgf@yd=\dimen172
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count275
-\c@pgf@countb=\count276
-\c@pgf@countc=\count277
-\c@pgf@countd=\count278
-\t@pgf@toka=\toks24
-\t@pgf@tokb=\toks25
-\t@pgf@tokc=\toks26
-\pgf@sys@id@count=\count279
+\c@pgf@counta=\count278
+\c@pgf@countb=\count279
+\c@pgf@countc=\count280
+\c@pgf@countd=\count281
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
+\pgf@sys@id@count=\count282
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg"
 File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
@@ -209,8 +252,8 @@ File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
 File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 ))) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfsyssoftpath@smallbuffer@items=\count280
-\pgfsyssoftpath@bigbuffer@items=\count281
+\pgfsyssoftpath@smallbuffer@items=\count283
+\pgfsyssoftpath@bigbuffer@items=\count284
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex"
 File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty"
@@ -231,52 +274,52 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex"
 Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex"
-\pgfmath@dimen=\dimen159
-\pgfmath@count=\count282
-\pgfmath@box=\box48
-\pgfmath@toks=\toks27
-\pgfmath@stack@operand=\toks28
-\pgfmath@stack@operation=\toks29
+\pgfmath@dimen=\dimen173
+\pgfmath@count=\count285
+\pgfmath@box=\box50
+\pgfmath@toks=\toks29
+\pgfmath@stack@operand=\toks30
+\pgfmath@stack@operation=\toks31
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex"))) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count283
+\c@pgfmathroundto@lastzeros=\count286
 )) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfint.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@picminx=\dimen160
-\pgf@picmaxx=\dimen161
-\pgf@picminy=\dimen162
-\pgf@picmaxy=\dimen163
-\pgf@pathminx=\dimen164
-\pgf@pathmaxx=\dimen165
-\pgf@pathminy=\dimen166
-\pgf@pathmaxy=\dimen167
-\pgf@xx=\dimen168
-\pgf@xy=\dimen169
-\pgf@yx=\dimen170
-\pgf@yy=\dimen171
-\pgf@zx=\dimen172
-\pgf@zy=\dimen173
+\pgf@picminx=\dimen174
+\pgf@picmaxx=\dimen175
+\pgf@picminy=\dimen176
+\pgf@picmaxy=\dimen177
+\pgf@pathminx=\dimen178
+\pgf@pathmaxx=\dimen179
+\pgf@pathminy=\dimen180
+\pgf@pathmaxy=\dimen181
+\pgf@xx=\dimen182
+\pgf@xy=\dimen183
+\pgf@yx=\dimen184
+\pgf@yy=\dimen185
+\pgf@zx=\dimen186
+\pgf@zy=\dimen187
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@path@lastx=\dimen174
-\pgf@path@lasty=\dimen175
+\pgf@path@lastx=\dimen188
+\pgf@path@lasty=\dimen189
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@shorten@end@additional=\dimen176
-\pgf@shorten@start@additional=\dimen177
+\pgf@shorten@end@additional=\dimen190
+\pgf@shorten@start@additional=\dimen191
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfpic=\box49
-\pgf@hbox=\box50
-\pgf@layerbox@main=\box51
-\pgf@picture@serial@count=\count284
+\pgfpic=\box51
+\pgf@hbox=\box52
+\pgf@layerbox@main=\box53
+\pgf@picture@serial@count=\count287
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgflinewidth=\dimen178
+\pgflinewidth=\dimen192
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@pt@x=\dimen179
-\pgf@pt@y=\dimen180
-\pgf@pt@temp=\dimen181
+\pgf@pt@x=\dimen193
+\pgf@pt@y=\dimen194
+\pgf@pt@temp=\dimen195
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.code.tex"
 File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex"
@@ -285,17 +328,17 @@ File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowsep=\dimen182
+\pgfarrowsep=\dimen196
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@max=\dimen183
-\pgf@sys@shading@range@num=\count285
-\pgf@shadingcount=\count286
+\pgf@max=\dimen197
+\pgf@sys@shading@range@num=\count288
+\pgf@shadingcount=\count289
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex"
 File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfexternal@startupbox=\box52
+\pgfexternal@startupbox=\box54
 )) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex"
 File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex"
@@ -306,90 +349,90 @@ File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfnodeparttextbox=\box53
+\pgfnodeparttextbox=\box55
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.code.tex"
 File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@nodesepstart=\dimen184
-\pgf@nodesepend=\dimen185
+\pgf@nodesepstart=\dimen198
+\pgf@nodesepend=\dimen199
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty"
 Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
 )) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgffor.sty" ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex")) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.sty" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex")) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex"
 Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex")
-\pgffor@iter=\dimen186
-\pgffor@skip=\dimen187
-\pgffor@stack=\toks30
-\pgffor@toks=\toks31
+\pgffor@iter=\dimen256
+\pgffor@skip=\dimen257
+\pgffor@stack=\toks32
+\pgffor@toks=\toks33
 )) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex"
 Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count287
-\pgfplotmarksize=\dimen188
+\pgf@plot@mark@count=\count290
+\pgfplotmarksize=\dimen258
 )
-\tikz@lastx=\dimen189
-\tikz@lasty=\dimen190
-\tikz@lastxsaved=\dimen191
-\tikz@lastysaved=\dimen192
-\tikz@lastmovetox=\dimen193
-\tikz@lastmovetoy=\dimen194
-\tikzleveldistance=\dimen195
-\tikzsiblingdistance=\dimen196
-\tikz@figbox=\box54
-\tikz@figbox@bg=\box55
-\tikz@tempbox=\box56
-\tikz@tempbox@bg=\box57
-\tikztreelevel=\count288
-\tikznumberofchildren=\count289
-\tikznumberofcurrentchild=\count290
-\tikz@fig@count=\count291
+\tikz@lastx=\dimen259
+\tikz@lasty=\dimen260
+\tikz@lastxsaved=\dimen261
+\tikz@lastysaved=\dimen262
+\tikz@lastmovetox=\dimen263
+\tikz@lastmovetoy=\dimen264
+\tikzleveldistance=\dimen265
+\tikzsiblingdistance=\dimen266
+\tikz@figbox=\box56
+\tikz@figbox@bg=\box57
+\tikz@tempbox=\box58
+\tikz@tempbox@bg=\box59
+\tikztreelevel=\count291
+\tikznumberofchildren=\count292
+\tikznumberofcurrentchild=\count293
+\tikz@fig@count=\count294
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count292
-\pgfmatrixcurrentcolumn=\count293
-\pgf@matrix@numberofcolumns=\count294
+\pgfmatrixcurrentrow=\count295
+\pgfmatrixcurrentcolumn=\count296
+\pgf@matrix@numberofcolumns=\count297
 )
-\tikz@expandcount=\count295
+\tikz@expandcount=\count298
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex"
 File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgfplots/pgfplots.sty" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplots.revision.tex")
 Package: pgfplots 2018/03/28 v1.16 Data Visualization (1.16)
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplots.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotscore.code.tex"
-\t@pgfplots@toka=\toks32
-\t@pgfplots@tokb=\toks33
-\t@pgfplots@tokc=\toks34
-\pgfplots@tmpa=\dimen197
-\c@pgfplots@coordindex=\count296
-\c@pgfplots@scanlineindex=\count297
+\t@pgfplots@toka=\toks34
+\t@pgfplots@tokb=\toks35
+\t@pgfplots@tokc=\toks36
+\pgfplots@tmpa=\dimen267
+\c@pgfplots@coordindex=\count299
+\c@pgfplots@scanlineindex=\count300
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex")) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_loader.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryfpu.code.tex")) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/util/pgfplotsutil.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/liststructure/pgfplotsliststructure.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/liststructure/pgfplotsliststructureext.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/liststructure/pgfplotsarray.code.tex"
-\c@pgfplotsarray@tmp=\count298
+\c@pgfplotsarray@tmp=\count301
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/numtable/pgfplotstableshared.code.tex"
-\c@pgfplotstable@counta=\count299
-\t@pgfplotstable@a=\toks35
+\c@pgfplotstable@counta=\count302
+\t@pgfplotstable@a=\toks37
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/util/pgfplotsbinary.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex")) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex"
-\c@pgfplotslibrarysurf@no=\count300
+\c@pgfplotslibrarysurf@no=\count303
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def"))) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/util/pgfplotscolormap.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/util/pgfplotscolor.code.tex"))
 ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotsstackedplots.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotsplothandlers.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex"))) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplots.scaling.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplots.errorbars.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplots.markers.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotsticks.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplots.paths.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduledecorations.code.tex"
-\pgfdecoratedcompleteddistance=\dimen198
-\pgfdecoratedremainingdistance=\dimen199
-\pgfdecoratedinputsegmentcompleteddistance=\dimen256
-\pgfdecoratedinputsegmentremainingdistance=\dimen257
-\pgf@decorate@distancetomove=\dimen258
-\pgf@decorate@repeatstate=\count301
-\pgfdecorationsegmentamplitude=\dimen259
-\pgfdecorationsegmentlength=\dimen260
+\pgfdecoratedcompleteddistance=\dimen268
+\pgfdecoratedremainingdistance=\dimen269
+\pgfdecoratedinputsegmentcompleteddistance=\dimen270
+\pgfdecoratedinputsegmentremainingdistance=\dimen271
+\pgf@decorate@distancetomove=\dimen272
+\pgf@decorate@repeatstate=\count304
+\pgfdecorationsegmentamplitude=\dimen273
+\pgfdecorationsegmentlength=\dimen274
 )
-\tikz@lib@dec@box=\box58
+\tikz@lib@dec@box=\box60
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex")) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex"))
-\pgfplots@numplots=\count302
-\pgfplots@xmin@reg=\dimen261
-\pgfplots@xmax@reg=\dimen262
-\pgfplots@ymin@reg=\dimen263
-\pgfplots@ymax@reg=\dimen264
-\pgfplots@zmin@reg=\dimen265
-\pgfplots@zmax@reg=\dimen266
+\pgfplots@numplots=\count305
+\pgfplots@xmin@reg=\dimen275
+\pgfplots@xmax@reg=\dimen276
+\pgfplots@ymin@reg=\dimen277
+\pgfplots@ymax@reg=\dimen278
+\pgfplots@zmin@reg=\dimen279
+\pgfplots@zmax@reg=\dimen280
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex"
 File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex"
@@ -418,41 +461,41 @@ File: pgflibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 File: tikzlibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex"
 File: pgflibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfnodepartlowerbox=\box59
-\pgfnodeparttwobox=\box60
-\pgfnodepartthreebox=\box61
-\pgfnodepartfourbox=\box62
-\pgfnodeparttwentybox=\box63
-\pgfnodepartnineteenbox=\box64
-\pgfnodeparteighteenbox=\box65
-\pgfnodepartseventeenbox=\box66
-\pgfnodepartsixteenbox=\box67
-\pgfnodepartfifteenbox=\box68
-\pgfnodepartfourteenbox=\box69
-\pgfnodepartthirteenbox=\box70
-\pgfnodeparttwelvebox=\box71
-\pgfnodepartelevenbox=\box72
-\pgfnodeparttenbox=\box73
-\pgfnodepartninebox=\box74
-\pgfnodeparteightbox=\box75
-\pgfnodepartsevenbox=\box76
-\pgfnodepartsixbox=\box77
-\pgfnodepartfivebox=\box78
+\pgfnodepartlowerbox=\box61
+\pgfnodeparttwobox=\box62
+\pgfnodepartthreebox=\box63
+\pgfnodepartfourbox=\box64
+\pgfnodeparttwentybox=\box65
+\pgfnodepartnineteenbox=\box66
+\pgfnodeparteighteenbox=\box67
+\pgfnodepartseventeenbox=\box68
+\pgfnodepartsixteenbox=\box69
+\pgfnodepartfifteenbox=\box70
+\pgfnodepartfourteenbox=\box71
+\pgfnodepartthirteenbox=\box72
+\pgfnodeparttwelvebox=\box73
+\pgfnodepartelevenbox=\box74
+\pgfnodeparttenbox=\box75
+\pgfnodepartninebox=\box76
+\pgfnodeparteightbox=\box77
+\pgfnodepartsevenbox=\box78
+\pgfnodepartsixbox=\box79
+\pgfnodepartfivebox=\box80
 ))) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex"
 File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryarrows.code.tex"
 File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\arrowsize=\dimen267
+\arrowsize=\dimen281
 )) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex"
 File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 14.
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 15.
 
 ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count303
-\l__pdf_internal_box=\box79
+\l__kernel_color_stack_int=\count306
+\l__pdf_internal_box=\box81
 )
 
 LaTeX Warning: Unused global option(s):
@@ -461,40 +504,40 @@ LaTeX Warning: Unused global option(s):
 (/Users/databunker/Desktop/FYP/FYP_report/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count304
-\scratchdimen=\dimen268
-\scratchbox=\box80
-\nofMPsegments=\count305
-\nofMParguments=\count306
-\everyMPshowfont=\toks36
-\MPscratchCnt=\count307
-\MPscratchDim=\dimen269
-\MPnumerator=\count308
-\makeMPintoPDFobject=\count309
-\everyMPtoPDFconversion=\toks37
+\scratchcounter=\count307
+\scratchdimen=\dimen282
+\scratchbox=\box82
+\nofMPsegments=\count308
+\nofMParguments=\count309
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count310
+\MPscratchDim=\dimen283
+\MPnumerator=\count311
+\makeMPintoPDFobject=\count312
+\everyMPtoPDFconversion=\toks39
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 ) ABD: EveryShipout initializing macros
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into your preamble.
- on input line 38.
+ on input line 39.
 
 [1
 
@@ -618,44 +661,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--8
  []
 
 
-Overfull \hbox (18.69516pt too wide) in paragraph at lines 1--9
+Overfull \hbox (18.69516pt too wide) in paragraph at lines 1--10
 \OT1/cmr/m/n/10 and further, instructions to setup environment can be found at tensorflow installation
  []
 
 
-Overfull \hbox (5.19981pt too wide) in paragraph at lines 1--9
+Overfull \hbox (5.19981pt too wide) in paragraph at lines 1--10
 \OT1/cmr/m/n/10 guide []. In addition, convolutional neural network was implmented using Python3
  []
 
 
-Overfull \hbox (16.2784pt too wide) in paragraph at lines 1--9
+Overfull \hbox (16.2784pt too wide) in paragraph at lines 1--10
 \OT1/cmr/m/n/10 and jupyter notebooks were used in these experiments which provides an appropriate
  []
 
 
-Overfull \hbox (26.44522pt too wide) in paragraph at lines 1--9
+Overfull \hbox (26.44522pt too wide) in paragraph at lines 1--10
 \OT1/cmr/m/n/10 learning libraries such as NumPy for numerical operations, matplotlib for visualisation,
  []
 
-
-Overfull \hbox (9.5006pt too wide) in paragraph at lines 10--11
-[]\OT1/cmr/m/n/10 The dataset contains two folders containing dermatoscopic images of pigmented
- []
-
 (/Users/databunker/Desktop/FYP/FYP_report/Subsections/method_overview.tex)
-Overfull \hbox (12.99138pt too wide) in paragraph at lines 1--14
+Overfull \hbox (12.99138pt too wide) in paragraph at lines 1--13
 \OT1/cmr/m/n/10 unbalanced data classes data columns were dropped from the dataset. Furthermore,
  []
 
 
-Overfull \hbox (0.88805pt too wide) in paragraph at lines 1--14
+Overfull \hbox (0.88805pt too wide) in paragraph at lines 1--13
 \OT1/cmtt/m/n/10 selection . train _ test _ split$ \OT1/cmr/m/n/10 class in the portion of 80 per cent for the training
  []
 
 [14
 
 ] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/normalisation.tex)
-Overfull \hbox (2.9856pt too wide) in paragraph at lines 1--16
+Overfull \hbox (2.9856pt too wide) in paragraph at lines 1--15
 \OT1/cmr/m/n/10 The images RGB images numpy array was mutli-demensional array with numbers
  []
 
@@ -677,25 +715,31 @@ File: Images/aseg.png Graphic file (type png)
 Package pdftex.def Info: Images/aseg.png  used on input line 20.
 (pdftex.def)             Requested size: 284.52756pt x 246.94295pt.
 )
-Overfull \hbox (8.13948pt too wide) in paragraph at lines 23--18
+Overfull \hbox (8.13948pt too wide) in paragraph at lines 23--17
 []\OT1/cmr/m/n/10 The figure above shows the result of applying the threshold image segmentation
  []
 
-) [16 </Users/databunker/Desktop/FYP/FYP_report/Images/aseg.png>]
+[16 </Users/databunker/Desktop/FYP/FYP_report/Images/aseg.png>]
+<Documents/model.pdf, id=80, 290.08376pt x 1069.9975pt>
+File: Documents/model.pdf Graphic file (type pdf)
+<use Documents/model.pdf>
+Package pdftex.def Info: Documents/model.pdf  used on input line 23.
+(pdftex.def)             Requested size: 134.19704pt x 494.99664pt.
+) [17] [18 </Users/databunker/Desktop/FYP/FYP_report/Documents/model.pdf>]
 Chapter 4.
-(/Users/databunker/Desktop/FYP/FYP_report/Chapters/eval.tex) [17
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/eval.tex) [19
 
 ]
 Chapter 5.
-(/Users/databunker/Desktop/FYP/FYP_report/Chapters/projectManagment.tex) [18
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/projectManagment.tex) [20
 
 ]
 Chapter 6.
-(/Users/databunker/Desktop/FYP/FYP_report/Chapters/reflection.tex) [19
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/reflection.tex) [21
 
 ]
 Chapter 7.
-(/Users/databunker/Desktop/FYP/FYP_report/Chapters/conclusion.tex) (/Users/databunker/Desktop/FYP/FYP_report/main.bbl [20
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/conclusion.tex) (/Users/databunker/Desktop/FYP/FYP_report/main.bbl [22
 
 ]
 Underfull \hbox (badness 1466) in paragraph at lines 5--10
@@ -717,7 +761,7 @@ Overfull \hbox (1.03674pt too wide) in paragraph at lines 46--52
 \OT1/cmr/bx/n/10 URL: \OT1/cmr/m/it/10 http://www.sciencedirect.com/science/article/pii/S0895611110000819 
  []
 
-[21
+[23
 
 ]
 Overfull \hbox (1.03674pt too wide) in paragraph at lines 67--71
@@ -734,12 +778,12 @@ Underfull \hbox (badness 1199) in paragraph at lines 102--106
 []\OT1/cmr/m/n/10 Thompson, F. & Jeyakumar, M. (2017), `Vector based classification of
  []
 
-) [22]
+) [24]
 Chapter 8.
 (/Users/databunker/Desktop/FYP/FYP_report/Chapters/appendices.tex
 
 pdfTeX warning: pdflatex (file /Users/databunker/Desktop/FYP/FYP_report/Documents/consent.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Documents/consent.pdf, id=100, 597.23125pt x 845.1575pt>
+<Documents/consent.pdf, id=117, 597.23125pt x 845.1575pt>
 File: Documents/consent.pdf Graphic file (type pdf)
 <use Documents/consent.pdf>
 Package pdftex.def Info: Documents/consent.pdf  used on input line 3.
@@ -749,13 +793,13 @@ Overfull \hbox (81.79134pt too wide) in paragraph at lines 3--4
  [] 
  []
 
-[23
+[25
 
 ]
 Overfull \vbox (269.87628pt too high) has occurred while \output is active []
 
- [24 </Users/databunker/Desktop/FYP/FYP_report/Documents/consent.pdf>]
-<Documents/participation.pdf, id=126, 598.235pt x 846.16125pt>
+ [26 </Users/databunker/Desktop/FYP/FYP_report/Documents/consent.pdf>]
+<Documents/participation.pdf, id=142, 598.235pt x 846.16125pt>
 File: Documents/participation.pdf Graphic file (type pdf)
 <use Documents/participation.pdf>
 Package pdftex.def Info: Documents/participation.pdf  used on input line 8.
@@ -768,19 +812,19 @@ Overfull \hbox (81.79134pt too wide) in paragraph at lines 8--9
 
 Overfull \vbox (86.57361pt too high) has occurred while \output is active []
 
- [25 </Users/databunker/Desktop/FYP/FYP_report/Documents/participation.pdf>]) [26] (/Users/databunker/Desktop/FYP/FYP_report/main.aux) ) 
+ [27 </Users/databunker/Desktop/FYP/FYP_report/Documents/participation.pdf>]) [28] (/Users/databunker/Desktop/FYP/FYP_report/main.aux) ) 
 Here is how much of TeX's memory you used:
- 26212 strings out of 483242
- 684608 string characters out of 2960027
- 1029099 words of memory out of 3000000
- 40966 multiletter control sequences out of 15000+200000
+ 27220 strings out of 483242
+ 702390 string characters out of 2960027
+ 1046973 words of memory out of 3000000
+ 41939 multiletter control sequences out of 15000+200000
  539615 words of font info for 50 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  63i,19n,98p,941b,1139s stack positions out of 5000i,500n,10000p,200000b,50000s
 </Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (27 pages, 2450943 bytes).
+Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (29 pages, 2478790 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
+ 222 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 

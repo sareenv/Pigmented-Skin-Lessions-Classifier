@@ -34,6 +34,26 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbs
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/adjustbox.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/adjustbox.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkeyval.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkvutils.tex
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/adjcalc.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/adjcalc.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/trimclip.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/trimclip.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/collectbox/collectbox.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/collectbox/collectbox.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/tc-pdftex.def
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/tc-pdftex.def
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/varwidth/varwidth.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/varwidth/varwidth.sty
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/varwidth/varwidth.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/switch.def
@@ -314,6 +334,10 @@ INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/aseg.png
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/aseg.png
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/aseg.png
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/aseg.png
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Documents/model.pdf
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Documents/model.pdf
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Documents/model.pdf
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Documents/model.pdf
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/eval.tex
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/eval.tex
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/projectManagment.tex
