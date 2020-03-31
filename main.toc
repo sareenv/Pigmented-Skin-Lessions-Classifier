@@ -14,14 +14,13 @@
 \contentsline {subsection}{\numberline {2.0.2}Support Vector Based Machine}{12}%
 \contentsline {subsection}{\numberline {2.0.3}Border Detection Based System}{12}%
 \contentsline {chapter}{\numberline {3}Methodology}{14}%
-\contentsline {section}{\numberline {3.1}Data Processing and Normalisation}{14}%
+\contentsline {section}{\numberline {3.1}Data Processing and Normalisation}{15}%
 \contentsline {subsection}{\numberline {3.1.1}Data Normalisation}{15}%
-\contentsline {subsection}{\numberline {3.1.2} Image Segmentation }{15}%
+\contentsline {subsection}{\numberline {3.1.2} Image Segmentation }{16}%
 \contentsline {section}{\numberline {3.2}Thresholding Segmentation Algorithm}{16}%
-\contentsline {section}{\numberline {3.3}Convolutional Model Training}{17}%
-\contentsline {chapter}{\numberline {4}Evaluations and Results}{19}%
-\contentsline {chapter}{\numberline {5}Project Managment}{20}%
-\contentsline {chapter}{\numberline {6}Reflection}{21}%
-\contentsline {chapter}{\numberline {7}Conclusion}{22}%
-\contentsline {chapter}{\numberline {8}Appendices}{25}%
-\contentsline {chapter}{Appendices}{28}%
+\contentsline {section}{\numberline {3.3}Convolutional Model Training}{18}%
+\contentsline {chapter}{\numberline {4}Evaluations and Results}{20}%
+\contentsline {chapter}{\numberline {5}Project Managment}{21}%
+\contentsline {chapter}{\numberline {6}Reflection}{22}%
+\contentsline {chapter}{\numberline {7}Conclusion}{23}%
+\contentsline {chapter}{\numberline {8}Appendices}{26}%

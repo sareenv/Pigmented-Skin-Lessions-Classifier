@@ -278,13 +278,13 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/originality.tex
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/originality.tex
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/abstract.tex
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/abstract.tex
 INPUT /Users/databunker/Desktop/FYP/FYP_report/main.toc
 INPUT /Users/databunker/Desktop/FYP/FYP_report/main.toc
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 OUTPUT /Users/databunker/Desktop/FYP/FYP_report/main.toc
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/acknowledgements.tex
 INPUT /Users/databunker/Desktop/FYP/FYP_report/Chapters/acknowledgements.tex
@@ -380,6 +380,8 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsf
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb

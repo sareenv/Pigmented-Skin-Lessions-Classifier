@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  25 MAR 2020 18:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  31 MAR 2020 03:14
 entering extended mode
 **/Users/databunker/Desktop/FYP/FYP_report/main.tex
 (/Users/databunker/Desktop/FYP/FYP_report/main.tex
@@ -496,12 +496,7 @@ Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is usel
 File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count306
 \l__pdf_internal_box=\box81
-)
-
-LaTeX Warning: Unused global option(s):
-    [14pts].
-
-(/Users/databunker/Desktop/FYP/FYP_report/main.aux)
+) (/Users/databunker/Desktop/FYP/FYP_report/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
@@ -561,23 +556,18 @@ Overfull \hbox (3.52731pt too wide) in paragraph at lines 4--8
 ]
 Chapter 1.
 (/Users/databunker/Desktop/FYP/FYP_report/Chapters/introduction.tex
-Overfull \hbox (3.69508pt too wide) in paragraph at lines 4--21
-\OT1/cmr/m/n/10 data provided by a cancer research organisation in 2017 has shown that melanoma
- []
-
-
-Overfull \hbox (1.41724pt too wide) in paragraph at lines 4--21
-\OT1/cmr/m/n/10 Darmascopic structures respectively of common pigmented skin lesions (Loescher
- []
-
-
-Overfull \hbox (6.21355pt too wide) in paragraph at lines 4--21
-\OT1/cmr/m/n/10 systems in an inconvenient manner. Medical institutions can use such technologies
+Overfull \hbox (1.60246pt too wide) in paragraph at lines 4--21
+\OT1/cmr/m/n/10 treatment of patients with more critical conditions. The people with less mobility
  []
 
 [5
 
-] [6] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/humanbrain.tex
+]
+Overfull \hbox (8.68596pt too wide) in paragraph at lines 23--33
+\OT1/cmr/m/n/10 investigation employs publicly available HAM10,000 dataset [[]]. The HAM10,000
+ []
+
+[6] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/humanbrain.tex
 <Images/neuron.png, id=32, 391.4625pt x 205.76875pt>
 File: Images/neuron.png Graphic file (type png)
 <use Images/neuron.png>
@@ -614,11 +604,31 @@ Overfull \hbox (3.38943pt too wide) in paragraph at lines 1--9
 \OT1/cmr/m/n/10 The objective for training deep learning models is to reduce the error in prediction
  []
 
-)) [10]
+))
+Overfull \hbox (8.29701pt too wide) in paragraph at lines 36--55
+\OT1/cmr/m/n/10 find minima of the cost fuction which improves the accuracy [[]]. Backpropagation
+ []
+
+[10]
 Chapter 2.
 (/Users/databunker/Desktop/FYP/FYP_report/Chapters/l_review.tex
 Overfull \hbox (18.63841pt too wide) in paragraph at lines 3--42
 \OT1/cmr/m/n/10 ABCD rule which considers the Asymmetry, Border irregularity, Colour irregularities
+ []
+
+
+Overfull \hbox (21.60257pt too wide) in paragraph at lines 3--42
+\OT1/cmr/m/n/10 medical professionals to clearly examine malignant based problems [[]]. Dermatoscopy
+ []
+
+
+Overfull \hbox (1.93587pt too wide) in paragraph at lines 3--42
+\OT1/cmr/m/n/10 examined by dermatologists to classify the pigmented skin lesion. Dermatologists
+ []
+
+
+Overfull \hbox (3.11168pt too wide) in paragraph at lines 3--42
+\OT1/cmr/m/n/10 select different approaches to examine pigmented skin lesions which might include
  []
 
 [11
@@ -626,21 +636,6 @@ Overfull \hbox (18.63841pt too wide) in paragraph at lines 3--42
 ]
 Overfull \hbox (6.83391pt too wide) in paragraph at lines 44--52
 \OT1/cmr/m/n/10 machine based classifier to detect multi-lesions skin cancer by analysing pigmented
- []
-
-
-Overfull \hbox (18.584pt too wide) in paragraph at lines 44--52
-\OT1/cmr/m/n/10 classification performance based on vector-based technique (Thompson & Jeyakumar
- []
-
-
-Overfull \hbox (2.6673pt too wide) in paragraph at lines 44--52
-\OT1/cmr/m/n/10 research papers mention that support vector machine for automated classification
- []
-
-
-Overfull \hbox (3.08401pt too wide) in paragraph at lines 44--52
-\OT1/cmr/m/n/10 perform image augmentation to generate random samples of images with different
  []
 
 
@@ -656,150 +651,135 @@ Overfull \hbox (10.24138pt too wide) in paragraph at lines 54--67
 ) [12] [13]
 Chapter 3.
 (/Users/databunker/Desktop/FYP/FYP_report/Chapters/methodology.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
 [][]$\OT1/cmtt/m/n/8 https : / / dataverse . harvard . edu / dataset . xhtml ? persistentId = doi : 10 . 7910 / DVN /
  []
 
 
-Overfull \hbox (18.69516pt too wide) in paragraph at lines 1--10
-\OT1/cmr/m/n/10 and further, instructions to setup environment can be found at tensorflow installation
+Overfull \hbox (3.68591pt too wide) in paragraph at lines 2--15
+\OT1/cmr/m/n/10 and write markdowns. Jupyter notebooks can be installed by installing Anaconda
  []
 
 
-Overfull \hbox (5.19981pt too wide) in paragraph at lines 1--10
-\OT1/cmr/m/n/10 guide []. In addition, convolutional neural network was implmented using Python3
- []
-
-
-Overfull \hbox (16.2784pt too wide) in paragraph at lines 1--10
-\OT1/cmr/m/n/10 and jupyter notebooks were used in these experiments which provides an appropriate
- []
-
-
-Overfull \hbox (26.44522pt too wide) in paragraph at lines 1--10
-\OT1/cmr/m/n/10 learning libraries such as NumPy for numerical operations, matplotlib for visualisation,
- []
-
-(/Users/databunker/Desktop/FYP/FYP_report/Subsections/method_overview.tex)
-Overfull \hbox (12.99138pt too wide) in paragraph at lines 1--13
-\OT1/cmr/m/n/10 unbalanced data classes data columns were dropped from the dataset. Furthermore,
- []
-
-
-Overfull \hbox (0.88805pt too wide) in paragraph at lines 1--13
-\OT1/cmtt/m/n/10 selection . train _ test _ split$ \OT1/cmr/m/n/10 class in the portion of 80 per cent for the training
+Overfull \hbox (23.1305pt too wide) in paragraph at lines 2--15
+\OT1/cmr/m/n/10 performing mathematical operations on multi-dimensional NumPy arrays. Matplotlib
  []
 
 [14
 
-] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/normalisation.tex)
-Overfull \hbox (2.9856pt too wide) in paragraph at lines 1--15
+] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/method_overview.tex) (/Users/databunker/Desktop/FYP/FYP_report/Subsections/normalisation.tex)
+Overfull \hbox (2.9856pt too wide) in paragraph at lines 1--23
 \OT1/cmr/m/n/10 The images RGB images numpy array was mutli-demensional array with numbers
  []
 
-(/Users/databunker/Desktop/FYP/FYP_report/Subsections/segmentation.tex
-<Images/bseg.png, id=70, 724.95844pt x 636.87938pt>
+[15] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/segmentation.tex
+<Images/bseg.png, id=74, 724.95844pt x 636.87938pt>
 File: Images/bseg.png Graphic file (type png)
 <use Images/bseg.png>
-Package pdftex.def Info: Images/bseg.png  used on input line 2.
+Package pdftex.def Info: Images/bseg.png  used on input line 3.
 (pdftex.def)             Requested size: 284.52756pt x 249.95627pt.
-
-Overfull \hbox (3.13026pt too wide) in paragraph at lines 10--18
-\OT1/cmr/m/n/10 tasks. Futhermore, the segmented images will be consumed in the model training.
- []
-
-[15 </Users/databunker/Desktop/FYP/FYP_report/Images/bseg.png>]
+)
 <Images/aseg.png, id=75, 729.47531pt x 633.11531pt>
 File: Images/aseg.png Graphic file (type png)
 <use Images/aseg.png>
-Package pdftex.def Info: Images/aseg.png  used on input line 20.
+Package pdftex.def Info: Images/aseg.png  used on input line 40.
 (pdftex.def)             Requested size: 284.52756pt x 246.94295pt.
-)
-Overfull \hbox (8.13948pt too wide) in paragraph at lines 23--17
+ [16 </Users/databunker/Desktop/FYP/FYP_report/Images/bseg.png>]
+Overfull \hbox (8.13948pt too wide) in paragraph at lines 43--44
 []\OT1/cmr/m/n/10 The figure above shows the result of applying the threshold image segmentation
  []
 
-[16 </Users/databunker/Desktop/FYP/FYP_report/Images/aseg.png>]
-<Documents/model.pdf, id=80, 290.08376pt x 1069.9975pt>
+[17 </Users/databunker/Desktop/FYP/FYP_report/Images/aseg.png>]
+<Documents/model.pdf, id=84, 290.08376pt x 1069.9975pt>
 File: Documents/model.pdf Graphic file (type pdf)
 <use Documents/model.pdf>
-Package pdftex.def Info: Documents/model.pdf  used on input line 23.
+Package pdftex.def Info: Documents/model.pdf  used on input line 51.
 (pdftex.def)             Requested size: 134.19704pt x 494.99664pt.
-) [17] [18 </Users/databunker/Desktop/FYP/FYP_report/Documents/model.pdf>]
+) [18] [19 </Users/databunker/Desktop/FYP/FYP_report/Documents/model.pdf>]
 Chapter 4.
-(/Users/databunker/Desktop/FYP/FYP_report/Chapters/eval.tex) [19
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/eval.tex) [20
 
 ]
 Chapter 5.
-(/Users/databunker/Desktop/FYP/FYP_report/Chapters/projectManagment.tex) [20
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/projectManagment.tex) [21
 
 ]
 Chapter 6.
-(/Users/databunker/Desktop/FYP/FYP_report/Chapters/reflection.tex) [21
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/reflection.tex) [22
 
 ]
 Chapter 7.
-(/Users/databunker/Desktop/FYP/FYP_report/Chapters/conclusion.tex) (/Users/databunker/Desktop/FYP/FYP_report/main.bbl [22
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/conclusion.tex) (/Users/databunker/Desktop/FYP/FYP_report/main.bbl [23
 
 ]
-Underfull \hbox (badness 1466) in paragraph at lines 5--10
-\OT1/cmr/m/n/10 neural network (ann) modeling and its application in pharmaceutical
+Underfull \hbox (badness 3312) in paragraph at lines 5--10
+[]\OT1/cmr/m/n/10 Agatonovic-Kustrin, S. and Beresford, R. [2000], `Basic concepts
  []
 
 
-Overfull \hbox (1.03674pt too wide) in paragraph at lines 5--10
+Underfull \hbox (badness 1990) in paragraph at lines 5--10
+\OT1/cmr/m/n/10 of artificial neural network (ann) modeling and its application in
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 5--10
+\OT1/cmr/m/n/10 pharmaceutical research', \OT1/cmr/m/it/10 Journal of Pharmaceutical and Biomedical
+ []
+
+
+Overfull \hbox (12.1479pt too wide) in paragraph at lines 5--10
 \OT1/cmr/bx/n/10 URL: \OT1/cmr/m/it/10 http://www.sciencedirect.com/science/article/pii/S0731708599002721 
  []
 
 
-Overfull \hbox (1.03674pt too wide) in paragraph at lines 28--34
+Overfull \hbox (12.1479pt too wide) in paragraph at lines 28--34
 \OT1/cmr/bx/n/10 URL: \OT1/cmr/m/it/10 http://www.sciencedirect.com/science/article/pii/S0895611107000146 
  []
 
 
-Overfull \hbox (1.03674pt too wide) in paragraph at lines 46--52
+Overfull \hbox (12.1479pt too wide) in paragraph at lines 46--52
 \OT1/cmr/bx/n/10 URL: \OT1/cmr/m/it/10 http://www.sciencedirect.com/science/article/pii/S0895611110000819 
  []
 
-[23
+[24
 
 ]
-Overfull \hbox (1.03674pt too wide) in paragraph at lines 67--71
+Overfull \hbox (12.1479pt too wide) in paragraph at lines 67--71
 \OT1/cmr/bx/n/10 URL: \OT1/cmr/m/it/10 http://www.sciencedirect.com/science/article/pii/S0933365712001108 
  []
 
 
-Overfull \hbox (1.03674pt too wide) in paragraph at lines 82--88
+Overfull \hbox (12.1479pt too wide) in paragraph at lines 82--88
 \OT1/cmr/bx/n/10 URL: \OT1/cmr/m/it/10 http://www.sciencedirect.com/science/article/pii/S0749208113000338 
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 102--106
-[]\OT1/cmr/m/n/10 Thompson, F. & Jeyakumar, M. (2017), `Vector based classification of
+Underfull \hbox (badness 1867) in paragraph at lines 91--96
+\OT1/cmr/m/n/10 predictive using linear regression with multiple variables, \OT1/cmr/m/it/10 in \OT1/cmr/m/n/10 `2014
  []
 
-) [24]
+
+Underfull \hbox (badness 1005) in paragraph at lines 102--106
+\OT1/cmr/m/n/10 of dermoscopic images using surf', \OT1/cmr/m/it/10 International Journal of Applied
+ []
+
+) [25]
 Chapter 8.
 (/Users/databunker/Desktop/FYP/FYP_report/Chapters/appendices.tex
 
 pdfTeX warning: pdflatex (file /Users/databunker/Desktop/FYP/FYP_report/Documents/consent.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Documents/consent.pdf, id=117, 597.23125pt x 845.1575pt>
+<Documents/consent.pdf, id=121, 597.23125pt x 845.1575pt>
 File: Documents/consent.pdf Graphic file (type pdf)
 <use Documents/consent.pdf>
 Package pdftex.def Info: Documents/consent.pdf  used on input line 3.
-(pdftex.def)             Requested size: 426.79134pt x 603.97353pt.
-
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 3--4
- [] 
- []
-
-[25
+(pdftex.def)             Requested size: 345.0pt x 488.2186pt.
+[26
 
 ]
-Overfull \vbox (269.87628pt too high) has occurred while \output is active []
+Overfull \vbox (142.12135pt too high) has occurred while \output is active []
 
- [26 </Users/databunker/Desktop/FYP/FYP_report/Documents/consent.pdf>]
-<Documents/participation.pdf, id=142, 598.235pt x 846.16125pt>
+ [27 </Users/databunker/Desktop/FYP/FYP_report/Documents/consent.pdf>]
+<Documents/participation.pdf, id=146, 598.235pt x 846.16125pt>
 File: Documents/participation.pdf Graphic file (type pdf)
 <use Documents/participation.pdf>
 Package pdftex.def Info: Documents/participation.pdf  used on input line 8.
@@ -812,19 +792,19 @@ Overfull \hbox (81.79134pt too wide) in paragraph at lines 8--9
 
 Overfull \vbox (86.57361pt too high) has occurred while \output is active []
 
- [27 </Users/databunker/Desktop/FYP/FYP_report/Documents/participation.pdf>]) [28] (/Users/databunker/Desktop/FYP/FYP_report/main.aux) ) 
+ [28 </Users/databunker/Desktop/FYP/FYP_report/Documents/participation.pdf>]) (/Users/databunker/Desktop/FYP/FYP_report/main.aux) ) 
 Here is how much of TeX's memory you used:
- 27220 strings out of 483242
- 702390 string characters out of 2960027
- 1046973 words of memory out of 3000000
- 41939 multiletter control sequences out of 15000+200000
+ 27218 strings out of 483242
+ 702384 string characters out of 2960027
+ 1046653 words of memory out of 3000000
+ 41938 multiletter control sequences out of 15000+200000
  539615 words of font info for 50 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  63i,19n,98p,941b,1139s stack positions out of 5000i,500n,10000p,200000b,50000s
-</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (29 pages, 2478790 bytes).
+</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (29 pages, 2489919 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
+ 226 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
