@@ -7,3 +7,26 @@
 
 Figure \ref{fig:before_seg} shows the sample from training dataset before performing image segmentation.
 The figure \ref{fig:before_seg} above was plotted using matplotlib library.
+
+
+\subsection{Thresholding Segmentation Algorithm}
+Thresholding is one of the commonly adopted method in image segmentation which helps in descrimination most 
+significant pixels in the images \citep{al2010image}. The thresold value is selected and the gray scale images  
+are converted into the binary representation of the image and value of image which are greater than the thresold
+value will be selected with keeping all the attributes of the images such as position and shape \citep{al2010image}. 
+Thus, reducing the complexity of the image data and making it easier for classification related tasks. Futhermore, the 
+segmented images will be consumed in the model training. The thresholding segmentation was performed using OpenCV library using 
+\url{cv.threshold(image, 0.5, 1, cv.THRESH_BINARY)} where threshold value of 0.5 and maximum value of the pixel can be 1
+as it was normalised.
+
+\begin{figure}[!htp]
+	\centering
+	\includegraphics[width=10cm]{Images/aseg.png}
+	\caption{Binary Images Segmentated Pigmented Skin lesions}
+	\label{fig:after_seg}
+\end{figure}
+
+The figure \ref{fig:after_seg} shows the result of applying the threshold image segmentation on 
+pigmented skin lesions. The process of image segmentation will simplfy the process of 
+border and edge detection by the convolutional neural network. Figure \ref{fig:after_seg} was 
+plotted using matplotlib library.

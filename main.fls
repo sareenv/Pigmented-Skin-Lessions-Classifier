@@ -259,6 +259,12 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/s
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr17.tfm
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/covlogo.png
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/covlogo.png
+OUTPUT /Users/databunker/Desktop/FYP/FYP_report/main.pdf
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/covlogo.png
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/covlogo.png
+INPUT /Users/databunker/Desktop/FYP/FYP_report/Images/covlogo.png
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr8.tfm
@@ -272,7 +278,6 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cms
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-OUTPUT /Users/databunker/Desktop/FYP/FYP_report/main.pdf
 INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr17.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm

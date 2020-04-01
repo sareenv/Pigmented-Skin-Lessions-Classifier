@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  1 APR 2020 19:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  2 APR 2020 00:00
 entering extended mode
 **/Users/databunker/Desktop/FYP/FYP_report/main.tex
 (/Users/databunker/Desktop/FYP/FYP_report/main.tex
@@ -499,20 +499,20 @@ File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
 ) (/Users/databunker/Desktop/FYP/FYP_report/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count307
@@ -532,11 +532,16 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 ) ABD: EveryShipout initializing macros
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into your preamble.
- on input line 39.
+ on input line 40.
 
+<Images/covlogo.png, id=4, 1284.8pt x 884.30376pt>
+File: Images/covlogo.png Graphic file (type png)
+<use Images/covlogo.png>
+Package pdftex.def Info: Images/covlogo.png  used on input line 41.
+(pdftex.def)             Requested size: 85.35826pt x 58.75014pt.
 [1
 
-{/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map}] (/Users/databunker/Desktop/FYP/FYP_report/Chapters/originality.tex
+{/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map} </Users/databunker/Desktop/FYP/FYP_report/Images/covlogo.png>] (/Users/databunker/Desktop/FYP/FYP_report/Chapters/originality.tex
 Overfull \hbox (3.52731pt too wide) in paragraph at lines 4--8
 \OT1/cmr/m/n/10 I acknowledge that the copyright of this project report and any product developed
  []
@@ -558,13 +563,13 @@ Chapter 1.
 (/Users/databunker/Desktop/FYP/FYP_report/Chapters/introduction.tex [5
 
 ] [6] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/humanbrain.tex
-<Images/neuron.png, id=32, 391.4625pt x 205.76875pt>
+<Images/neuron.png, id=34, 391.4625pt x 205.76875pt>
 File: Images/neuron.png Graphic file (type png)
 <use Images/neuron.png>
 Package pdftex.def Info: Images/neuron.png  used on input line 3.
 (pdftex.def)             Requested size: 284.52756pt x 149.56627pt.
 ) (/Users/databunker/Desktop/FYP/FYP_report/Subsections/artneurons.tex
-<Images/p_model.png, id=34, 386.44376pt x 254.9525pt>
+<Images/p_model.png, id=36, 386.44376pt x 254.9525pt>
 File: Images/p_model.png Graphic file (type png)
 <use Images/p_model.png>
 Package pdftex.def Info: Images/p_model.png  used on input line 3.
@@ -648,53 +653,49 @@ Overfull \hbox (3.68591pt too wide) in paragraph at lines 2--16
 [14
 
 ] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/method_overview.tex
-<Images/datae.png, id=70, 388.45125pt x 229.60782pt>
+<Images/datae.png, id=72, 388.45125pt x 229.60782pt>
 File: Images/datae.png Graphic file (type png)
 <use Images/datae.png>
 Package pdftex.def Info: Images/datae.png  used on input line 2.
 (pdftex.def)             Requested size: 345.0pt x 203.92989pt.
-) [15 </Users/databunker/Desktop/FYP/FYP_report/Images/datae.png>] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/normalisation.tex) [16] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/segmentation.tex
-<Images/bseg.png, id=79, 724.95844pt x 636.87938pt>
+) [15 </Users/databunker/Desktop/FYP/FYP_report/Images/datae.png>] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/normalisation.tex) (/Users/databunker/Desktop/FYP/FYP_report/Subsections/segmentation.tex
+<Images/bseg.png, id=78, 724.95844pt x 636.87938pt>
 File: Images/bseg.png Graphic file (type png)
 <use Images/bseg.png>
 Package pdftex.def Info: Images/bseg.png  used on input line 3.
 (pdftex.def)             Requested size: 284.52756pt x 249.95627pt.
-)
-Overfull \hbox (3.13026pt too wide) in paragraph at lines 30--38
+
+Overfull \hbox (3.13026pt too wide) in paragraph at lines 13--21
 \OT1/cmr/m/n/10 tasks. Futhermore, the segmented images will be consumed in the model training.
  []
 
-<Images/aseg.png, id=80, 729.47531pt x 633.11531pt>
+[16 </Users/databunker/Desktop/FYP/FYP_report/Images/bseg.png>]
+<Images/aseg.png, id=83, 729.47531pt x 633.11531pt>
 File: Images/aseg.png Graphic file (type png)
 <use Images/aseg.png>
-Package pdftex.def Info: Images/aseg.png  used on input line 40.
+Package pdftex.def Info: Images/aseg.png  used on input line 24.
 (pdftex.def)             Requested size: 284.52756pt x 246.94295pt.
-[17 </Users/databunker/Desktop/FYP/FYP_report/Images/bseg.png>]
-Overfull \hbox (8.13948pt too wide) in paragraph at lines 43--44
-[]\OT1/cmr/m/n/10 The figure above shows the result of applying the threshold image segmentation
- []
-
-[18 </Users/databunker/Desktop/FYP/FYP_report/Images/aseg.png>]
-<Documents/model.pdf, id=90, 290.08376pt x 1069.9975pt>
+) [17 </Users/databunker/Desktop/FYP/FYP_report/Images/aseg.png>]
+<Documents/model.pdf, id=88, 290.08376pt x 1069.9975pt>
 File: Documents/model.pdf Graphic file (type pdf)
 <use Documents/model.pdf>
-Package pdftex.def Info: Documents/model.pdf  used on input line 51.
+Package pdftex.def Info: Documents/model.pdf  used on input line 29.
 (pdftex.def)             Requested size: 134.19704pt x 494.99664pt.
-) [19] [20 </Users/databunker/Desktop/FYP/FYP_report/Documents/model.pdf>]
+) [18] [19 </Users/databunker/Desktop/FYP/FYP_report/Documents/model.pdf>]
 Chapter 4.
-(/Users/databunker/Desktop/FYP/FYP_report/Chapters/eval.tex) [21
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/eval.tex) [20
 
 ]
 Chapter 5.
-(/Users/databunker/Desktop/FYP/FYP_report/Chapters/projectManagment.tex) [22
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/projectManagment.tex) [21
 
 ]
 Chapter 6.
-(/Users/databunker/Desktop/FYP/FYP_report/Chapters/reflection.tex) [23
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/reflection.tex) [22
 
 ]
 Chapter 7.
-(/Users/databunker/Desktop/FYP/FYP_report/Chapters/conclusion.tex) (/Users/databunker/Desktop/FYP/FYP_report/main.bbl [24
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/conclusion.tex) (/Users/databunker/Desktop/FYP/FYP_report/main.bbl [23
 
 ]
 Underfull \hbox (badness 1466) in paragraph at lines 5--10
@@ -721,7 +722,7 @@ Overfull \hbox (1.03674pt too wide) in paragraph at lines 46--52
 \OT1/cmr/bx/n/10 URL: \OT1/cmr/m/it/10 http://www.sciencedirect.com/science/article/pii/S0895611110000819 
  []
 
-[25
+[24
 
 ]
 Overfull \hbox (1.03674pt too wide) in paragraph at lines 67--71
@@ -733,23 +734,23 @@ Overfull \hbox (1.03674pt too wide) in paragraph at lines 82--88
 \OT1/cmr/bx/n/10 URL: \OT1/cmr/m/it/10 http://www.sciencedirect.com/science/article/pii/S0749208113000338 
  []
 
-) [26]
+) [25]
 Chapter 8.
 (/Users/databunker/Desktop/FYP/FYP_report/Chapters/appendices.tex
 
 pdfTeX warning: pdflatex (file /Users/databunker/Desktop/FYP/FYP_report/Documents/consent.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Documents/consent.pdf, id=126, 597.23125pt x 845.1575pt>
+<Documents/consent.pdf, id=125, 597.23125pt x 845.1575pt>
 File: Documents/consent.pdf Graphic file (type pdf)
 <use Documents/consent.pdf>
 Package pdftex.def Info: Documents/consent.pdf  used on input line 3.
 (pdftex.def)             Requested size: 345.0pt x 488.2186pt.
-[27
+[26
 
 ]
 Overfull \vbox (142.12135pt too high) has occurred while \output is active []
 
- [28 </Users/databunker/Desktop/FYP/FYP_report/Documents/consent.pdf>]
-<Documents/participation.pdf, id=151, 598.235pt x 846.16125pt>
+ [27 </Users/databunker/Desktop/FYP/FYP_report/Documents/consent.pdf>]
+<Documents/participation.pdf, id=150, 598.235pt x 846.16125pt>
 File: Documents/participation.pdf Graphic file (type pdf)
 <use Documents/participation.pdf>
 Package pdftex.def Info: Documents/participation.pdf  used on input line 8.
@@ -762,19 +763,19 @@ Overfull \hbox (81.79134pt too wide) in paragraph at lines 8--9
 
 Overfull \vbox (86.57361pt too high) has occurred while \output is active []
 
- [29 </Users/databunker/Desktop/FYP/FYP_report/Documents/participation.pdf>]) (/Users/databunker/Desktop/FYP/FYP_report/main.aux) ) 
+ [28 </Users/databunker/Desktop/FYP/FYP_report/Documents/participation.pdf>]) (/Users/databunker/Desktop/FYP/FYP_report/main.aux) ) 
 Here is how much of TeX's memory you used:
- 27225 strings out of 483242
- 702507 string characters out of 2960027
- 1046948 words of memory out of 3000000
- 41944 multiletter control sequences out of 15000+200000
+ 27232 strings out of 483242
+ 702642 string characters out of 2960027
+ 1047005 words of memory out of 3000000
+ 41950 multiletter control sequences out of 15000+200000
  539615 words of font info for 50 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  63i,19n,98p,941b,1139s stack positions out of 5000i,500n,10000p,200000b,50000s
 </Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (30 pages, 2506779 bytes).
+Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (29 pages, 2618405 bytes).
 PDF statistics:
- 231 PDF objects out of 1000 (max. 8388607)
+ 230 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
