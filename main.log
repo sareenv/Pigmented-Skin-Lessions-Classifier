@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  2 APR 2020 00:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  5 APR 2020 23:25
 entering extended mode
 **/Users/databunker/Desktop/FYP/FYP_report/main.tex
 (/Users/databunker/Desktop/FYP/FYP_report/main.tex
@@ -681,12 +681,7 @@ File: Documents/model.pdf Graphic file (type pdf)
 <use Documents/model.pdf>
 Package pdftex.def Info: Documents/model.pdf  used on input line 3.
 (pdftex.def)             Requested size: 119.2892pt x 440.00168pt.
-
-Overfull \hbox (9.82466pt too wide) in paragraph at lines 6--20
-\OT1/cmr/m/n/10 three dense hidden layers and one output layer in the neural network. Furthermore,
- []
-
-[18 </Users/databunker/Desktop/FYP/FYP_report/Documents/model.pdf>])) [19]
+ [18 </Users/databunker/Desktop/FYP/FYP_report/Documents/model.pdf>])) [19]
 Chapter 4.
 (/Users/databunker/Desktop/FYP/FYP_report/Chapters/eval.tex) [20
 
@@ -747,38 +742,34 @@ pdfTeX warning: pdflatex (file /Users/databunker/Desktop/FYP/FYP_report/Document
 <Documents/consent.pdf, id=125, 597.23125pt x 845.1575pt>
 File: Documents/consent.pdf Graphic file (type pdf)
 <use Documents/consent.pdf>
-Package pdftex.def Info: Documents/consent.pdf  used on input line 3.
+Package pdftex.def Info: Documents/consent.pdf  used on input line 4.
 (pdftex.def)             Requested size: 345.0pt x 488.2186pt.
-[26
-
-]
-Overfull \vbox (142.12135pt too high) has occurred while \output is active []
-
- [27 </Users/databunker/Desktop/FYP/FYP_report/Documents/consent.pdf>]
-<Documents/participation.pdf, id=150, 598.235pt x 846.16125pt>
+<Documents/participation.pdf, id=126, 598.235pt x 846.16125pt>
 File: Documents/participation.pdf Graphic file (type pdf)
 <use Documents/participation.pdf>
-Package pdftex.def Info: Documents/participation.pdf  used on input line 8.
+Package pdftex.def Info: Documents/participation.pdf  used on input line 10.
 (pdftex.def)             Requested size: 426.79134pt x 603.67085pt.
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 8--9
- [] 
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 10--11
+ [][] 
  []
 
 
-Overfull \vbox (86.57361pt too high) has occurred while \output is active []
+LaTeX Warning: Float too large for page by 53.67085pt on input line 11.
 
- [28 </Users/databunker/Desktop/FYP/FYP_report/Documents/participation.pdf>]) (/Users/databunker/Desktop/FYP/FYP_report/main.aux) ) 
+) [26
+
+] [27 </Users/databunker/Desktop/FYP/FYP_report/Documents/consent.pdf>] [28 </Users/databunker/Desktop/FYP/FYP_report/Documents/participation.pdf>] (/Users/databunker/Desktop/FYP/FYP_report/main.aux) ) 
 Here is how much of TeX's memory you used:
  27238 strings out of 483242
  702937 string characters out of 2960027
- 1048010 words of memory out of 3000000
+ 1047011 words of memory out of 3000000
  41951 multiletter control sequences out of 15000+200000
  539615 words of font info for 50 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  63i,19n,98p,941b,1139s stack positions out of 5000i,500n,10000p,200000b,50000s
 </Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (29 pages, 2619950 bytes).
+Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (29 pages, 2620568 bytes).
 PDF statistics:
  230 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

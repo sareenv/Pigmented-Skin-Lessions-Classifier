@@ -4,7 +4,7 @@
     \caption{Model Architecture 1}
 \end{figure}
 The model architecture above was implemented using the keras Api in which 2 dimensional 
-convolutional layers were added to the sequantial network with intial shape of image in (224, 224, 3) width and height of input image is 224 pixels and the rgb channels depth 
+convolutional layers were added to the sequantial network with intial dimension of image in (224, 224, 3), where width and height of input image is 224 pixels and the rgb channels depth 
 are represented by 3. The initial convolutional layers contains 32 input filters with the kernel size of (3, 3) with relu 
 activation function. In the network layers followed by first two convolutional layers are polling layer in the 
 architecture MaxPooling was used to extract maximum of the input features after applying image filter or kernel 
@@ -18,4 +18,12 @@ Furthermore, the model architecture was compiled using various hyper-parameters 
 optimiser for the convolutional model which helps in computing the gradient for the loss function to minimise the error in predecting 
 category of pigmented skin lesion.
 
-\subsection{CodePRo}
+\subsection*{Experiments for optimal hyper-parameters}
+The model architecture at initial stages was compiled using different hyper-parameters
+such as optimal optimiser for the neural network and learning rate. These 
+hyper-parameters can have impact in finding gradient descent of loss function. Keras libraries 
+provides various optimisers such as Adam, SGD and RMSProp Optimiser which 
+aims towards reducing the cost function.
+
+
+
