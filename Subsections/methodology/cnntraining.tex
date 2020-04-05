@@ -2,8 +2,9 @@
     \centering
     \includegraphics[height=.8\textheight]{Documents/model.pdf}
     \caption{Model Architecture 1}
+    \label{fig:model1}
 \end{figure}
-The model architecture above was implemented using the keras Api in which 2 dimensional 
+The model architecture \ref{fig:model1} was implemented using the keras Api in which 2 dimensional 
 convolutional layers were added to the sequantial network with intial dimension of image in (224, 224, 3), where width and height of input image is 224 pixels and the rgb channels depth 
 are represented by 3. The initial convolutional layers contains 32 input filters with the kernel size of (3, 3) with relu 
 activation function. In the network layers followed by first two convolutional layers are polling layer in the 
@@ -18,12 +19,62 @@ Furthermore, the model architecture was compiled using various hyper-parameters 
 optimiser for the convolutional model which helps in computing the gradient for the loss function to minimise the error in predecting 
 category of pigmented skin lesion.
 
-\subsection*{Experiments for optimal hyper-parameters}
+\subsection{Experiments for optimal Model optimiser}
 The model architecture at initial stages was compiled using different hyper-parameters
 such as optimal optimiser for the neural network and learning rate. These 
 hyper-parameters can have impact in finding gradient descent of loss function. Keras libraries 
 provides various optimisers such as Adam, SGD and RMSProp Optimiser which 
-aims towards reducing the cost function.
+aims towards reducing the cost function. The model architecture mentioned above was trained for 30 epochs or iteration to 
+investigate the optimal optimiser for classification of pigmented skin lesions. The model was trained under learning 
+constant rate of 0.001 and loss function of categorical crossentropy because the model has to evaluate the mutiple data classes 
+for pigmented skin lesions.
 
+\pagebreak
+
+\begin{figure}[!htp]
+    \centering
+    \includegraphics[width=15cm]{Images/Adam Optimiser.png}
+    \caption{Model Results obtained with Adam Optimiser}
+    \label{fig:adam}
+\end{figure}
+
+\paragraph{Adam Optimiser}
+The figure \ref{fig:adam} refects the results obtained from training the model using adam optimiser. The figure \ref{fig:adam} shows that model loss function 
+is not decreasing and after few epochs there was no improvment in model accuracy which means that adam optimiser is sutaible 
+optimiser for model architecture \ref{fig:model1} presented above.
+
+\begin{figure}[!htp]
+    \centering
+    \includegraphics[width=15cm]{Images/SGD.png}
+    \caption{Model Results obtained with SGD Optimiser}
+    \label{fig:sgd}
+\end{figure}
+
+\paragraph{SGD Optimiser}
+The figure \ref{fig:sgd} refects the results obtained from training the model using sgd optimiser. The model shows improvment in model 
+performance. The training accuracy of model increased over epochs and loss function was decreasing as anticipated as shown in the figure 
+\ref{fig:sgd} above.
+
+
+\begin{figure}[!htp]
+    \centering
+    \includegraphics[width=15cm]{Images/rmsprop.png}
+    \caption{Model Results obtained with RMSProp Optimiser}
+    \label{fig:rms}
+\end{figure}
+
+\paragraph{RMSProp Optimiser}
+The figure \ref{fig:rms} refects the results obtained from training the model using 'RMSProp' optimiser. The model performance was similar to 
+the adam optimiser.Therefore, the SGD optimiser was optimial optimiser for classificaiton model under the constant hyper parameters mentioned above.
+the further, experiments performed on convolutional neural network are trained on SGD optimiser.
+
+\section{Model Experiments with Learning Rates}
+
+\begin{figure}[!htp]
+    \centering
+    \includegraphics[width=15cm]{Images/lr.png}
+    \caption{Model Results obtained with different learning rates}
+    \label{fig:lrates}
+\end{figure}
 
 
