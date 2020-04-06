@@ -28,5 +28,5 @@
 \contentsline {chapter}{\numberline {5}Project Managment}{24}%
 \contentsline {chapter}{\numberline {6}Reflection}{25}%
 \contentsline {chapter}{\numberline {7}Conclusion}{26}%
-\contentsline {chapter}{\numberline {8}Appendices}{27}%
-\contentsline {chapter}{Appendices}{27}%
+\contentsline {chapter}{\numberline {8}Appendices}{29}%
+\contentsline {chapter}{Appendices}{29}%
