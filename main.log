@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  8 APR 2020 23:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  8 APR 2020 23:59
 entering extended mode
 **/Users/databunker/Desktop/FYP/FYP_report/main.tex
 (/Users/databunker/Desktop/FYP/FYP_report/main.tex
@@ -414,4 +414,409 @@ Package: pgfplots 2018/03/28 v1.16 Data Visualization (1.16)
 ) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/util/pgfplotsbinary.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex")) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex"
 \c@pgfplotslibrarysurf@no=\count303
  ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def"))) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/util/pgfplotscolormap.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/util/pgfplotscolor.code.tex"))
-("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotsstackedplots.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotsplothandlers.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex"))) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplots.scaling.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplots.errorbars.code.tex") ("/Library
+("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotsstackedplots.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotsplothandlers.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex"))) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplots.scaling.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplots.errorbars.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplots.markers.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplotsticks.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgfplots/pgfplots.paths.code.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduledecorations.code.tex"
+\pgfdecoratedcompleteddistance=\dimen268
+\pgfdecoratedremainingdistance=\dimen269
+\pgfdecoratedinputsegmentcompleteddistance=\dimen270
+\pgfdecoratedinputsegmentremainingdistance=\dimen271
+\pgf@decorate@distancetomove=\dimen272
+\pgf@decorate@repeatstate=\count304
+\pgfdecorationsegmentamplitude=\dimen273
+\pgfdecorationsegmentlength=\dimen274
+)
+\tikz@lib@dec@box=\box60
+) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex")) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex"))
+\pgfplots@numplots=\count305
+\pgfplots@xmin@reg=\dimen275
+\pgfplots@xmax@reg=\dimen276
+\pgfplots@ymin@reg=\dimen277
+\pgfplots@ymax@reg=\dimen278
+\pgfplots@zmin@reg=\dimen279
+\pgfplots@zmax@reg=\dimen280
+) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex"
+File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex"
+File: pgflibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymatrix.code.tex"
+File: tikzlibrarymatrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex"
+File: tikzlibraryshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex"
+File: tikzlibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex"
+File: pgflibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex"
+File: tikzlibraryshapes.misc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex"
+File: pgflibraryshapes.misc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex"
+File: tikzlibraryshapes.symbols.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex"
+File: pgflibraryshapes.symbols.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex"
+File: tikzlibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code.tex"
+File: pgflibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex")) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex"
+File: tikzlibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex"
+File: pgflibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodepartlowerbox=\box61
+\pgfnodeparttwobox=\box62
+\pgfnodepartthreebox=\box63
+\pgfnodepartfourbox=\box64
+\pgfnodeparttwentybox=\box65
+\pgfnodepartnineteenbox=\box66
+\pgfnodeparteighteenbox=\box67
+\pgfnodepartseventeenbox=\box68
+\pgfnodepartsixteenbox=\box69
+\pgfnodepartfifteenbox=\box70
+\pgfnodepartfourteenbox=\box71
+\pgfnodepartthirteenbox=\box72
+\pgfnodeparttwelvebox=\box73
+\pgfnodepartelevenbox=\box74
+\pgfnodeparttenbox=\box75
+\pgfnodepartninebox=\box76
+\pgfnodeparteightbox=\box77
+\pgfnodepartsevenbox=\box78
+\pgfnodepartsixbox=\box79
+\pgfnodepartfivebox=\box80
+))) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryarrows.code.tex"
+File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\arrowsize=\dimen281
+)) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 15.
+
+("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count306
+\l__pdf_internal_box=\box81
+) (/Users/databunker/Desktop/FYP/FYP_report/main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count307
+\scratchdimen=\dimen282
+\scratchbox=\box82
+\nofMPsegments=\count308
+\nofMParguments=\count309
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count310
+\MPscratchDim=\dimen283
+\MPnumerator=\count311
+\makeMPintoPDFobject=\count312
+\everyMPtoPDFconversion=\toks39
+) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+) ABD: EveryShipout initializing macros
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into your preamble.
+ on input line 40.
+
+<Images/covlogo.png, id=4, 1284.8pt x 884.30376pt>
+File: Images/covlogo.png Graphic file (type png)
+<use Images/covlogo.png>
+Package pdftex.def Info: Images/covlogo.png  used on input line 41.
+(pdftex.def)             Requested size: 85.35826pt x 58.75014pt.
+[1
+
+{/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map} </Users/databunker/Desktop/FYP/FYP_report/Images/covlogo.png>] (/Users/databunker/Desktop/FYP/FYP_report/Chapters/originality.tex
+Overfull \hbox (3.52731pt too wide) in paragraph at lines 4--8
+\OT1/cmr/m/n/10 I acknowledge that the copyright of this project report and any product developed
+ []
+
+) [1
+
+] (/Users/databunker/Desktop/FYP/FYP_report/Chapters/abstract.tex) [2
+
+] (/Users/databunker/Desktop/FYP/FYP_report/main.toc)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [3
+
+] (/Users/databunker/Desktop/FYP/FYP_report/Chapters/acknowledgements.tex) [4
+
+]
+Chapter 1.
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/introduction.tex [5
+
+] [6] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/humanbrain.tex
+<Images/neuron.png, id=34, 391.4625pt x 205.76875pt>
+File: Images/neuron.png Graphic file (type png)
+<use Images/neuron.png>
+Package pdftex.def Info: Images/neuron.png  used on input line 3.
+(pdftex.def)             Requested size: 284.52756pt x 149.56627pt.
+) (/Users/databunker/Desktop/FYP/FYP_report/Subsections/artneurons.tex
+<Images/p_model.png, id=36, 386.44376pt x 254.9525pt>
+File: Images/p_model.png Graphic file (type png)
+<use Images/p_model.png>
+Package pdftex.def Info: Images/p_model.png  used on input line 3.
+(pdftex.def)             Requested size: 207.0021pt x 136.56744pt.
+ [7 </Users/databunker/Desktop/FYP/FYP_report/Images/neuron.png>]
+Overfull \hbox (26.61174pt too wide) in paragraph at lines 17--18
+\OT1/cmr/m/n/10 The equation below represents the preceptron model mentioned above in Mathematical
+ []
+
+) [8 </Users/databunker/Desktop/FYP/FYP_report/Images/p_model.png>]
+Overfull \hbox (4.60793pt too wide) in paragraph at lines 44--44
+[]\OT1/cmr/bx/n/14.4 Multi Layered Feed Forward Neural Network 
+ []
+
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/ann.tex
+Overfull \hbox (2.93622pt too wide) in paragraph at lines 27--27
+ []\OT1/cmr/m/n/10 Hidden 
+ []
+
+
+Overfull \hbox (3.76958pt too wide) in paragraph at lines 28--28
+ []\OT1/cmr/m/n/10 Output 
+ []
+
+) [9] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/backprop.tex
+Overfull \hbox (3.38943pt too wide) in paragraph at lines 1--9
+\OT1/cmr/m/n/10 The objective for training deep learning models is to reduce the error in prediction
+ []
+
+)) [10]
+Chapter 2.
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/l_review.tex
+Overfull \hbox (18.63841pt too wide) in paragraph at lines 3--43
+\OT1/cmr/m/n/10 ABCD rule which considers the Asymmetry, Border irregularity, Colour irregularities
+ []
+
+[11
+
+]
+Overfull \hbox (6.83391pt too wide) in paragraph at lines 45--53
+\OT1/cmr/m/n/10 machine based classifier to detect multi-lesions skin cancer by analysing pigmented
+ []
+
+
+Overfull \hbox (29.69514pt too wide) in paragraph at lines 45--53
+\OT1/cmr/m/n/10 classification performance based on vector-based technique (Thompson and Jeyakumar,
+ []
+
+
+Overfull \hbox (2.6673pt too wide) in paragraph at lines 45--53
+\OT1/cmr/m/n/10 research papers mention that support vector machine for automated classification
+ []
+
+
+Overfull \hbox (3.08401pt too wide) in paragraph at lines 45--53
+\OT1/cmr/m/n/10 perform image augmentation to generate random samples of images with different
+ []
+
+
+Overfull \hbox (6.04701pt too wide) in paragraph at lines 55--68
+\OT1/cmr/m/n/10 hair removal mechanism to perform colour channels transformation. Furthermore,
+ []
+
+
+Overfull \hbox (10.24138pt too wide) in paragraph at lines 55--68
+\OT1/cmr/m/n/10 thresholding were performed for optimal border detection. The predicted outcomes
+ []
+
+) [12] [13]
+Chapter 3.
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/methodology.tex
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[][]$\OT1/cmtt/m/n/8 https : / / dataverse . harvard . edu / dataset . xhtml ? persistentId = doi : 10 . 7910 / DVN /
+ []
+
+
+Overfull \hbox (3.68591pt too wide) in paragraph at lines 2--16
+\OT1/cmr/m/n/10 and write markdowns. Jupyter notebooks can be installed by installing Anaconda
+ []
+
+[14
+
+] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/method_overview.tex
+<Images/datae.png, id=72, 388.45125pt x 229.60782pt>
+File: Images/datae.png Graphic file (type png)
+<use Images/datae.png>
+Package pdftex.def Info: Images/datae.png  used on input line 2.
+(pdftex.def)             Requested size: 345.0pt x 203.92989pt.
+) [15 </Users/databunker/Desktop/FYP/FYP_report/Images/datae.png>] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/normalisation.tex) (/Users/databunker/Desktop/FYP/FYP_report/Subsections/segmentation.tex
+<Images/bseg.png, id=78, 724.95844pt x 636.87938pt>
+File: Images/bseg.png Graphic file (type png)
+<use Images/bseg.png>
+Package pdftex.def Info: Images/bseg.png  used on input line 3.
+(pdftex.def)             Requested size: 284.52756pt x 249.95627pt.
+
+Overfull \hbox (3.13026pt too wide) in paragraph at lines 13--21
+\OT1/cmr/m/n/10 tasks. Futhermore, the segmented images will be consumed in the model training.
+ []
+
+[16 </Users/databunker/Desktop/FYP/FYP_report/Images/bseg.png>]
+<Images/aseg.png, id=83, 729.47531pt x 633.11531pt>
+File: Images/aseg.png Graphic file (type png)
+<use Images/aseg.png>
+Package pdftex.def Info: Images/aseg.png  used on input line 24.
+(pdftex.def)             Requested size: 284.52756pt x 246.94295pt.
+) [17 </Users/databunker/Desktop/FYP/FYP_report/Images/aseg.png>] (/Users/databunker/Desktop/FYP/FYP_report/Subsections/methodology/cnntraining.tex
+<Documents/model.pdf, id=88, 290.08376pt x 1069.9975pt>
+File: Documents/model.pdf Graphic file (type pdf)
+<use Documents/model.pdf>
+Package pdftex.def Info: Documents/model.pdf  used on input line 3.
+(pdftex.def)             Requested size: 119.2892pt x 440.00168pt.
+ [18 </Users/databunker/Desktop/FYP/FYP_report/Documents/model.pdf>]
+Overfull \hbox (1.44502pt too wide) in paragraph at lines 23--31
+\OT1/cmr/m/n/10 architecture mentioned above was trained for 30 epochs or iteration to investigate
+ []
+
+[19]
+<Images/Adam Optimiser.png, id=105, 713.66624pt x 250.68657pt>
+File: Images/Adam Optimiser.png Graphic file (type png)
+<use Images/Adam Optimiser.png>
+Package pdftex.def Info: Images/Adam Optimiser.png  used on input line 36.
+(pdftex.def)             Requested size: 426.79134pt x 149.91582pt.
+
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 36--37
+ [][] 
+ []
+
+<Images/SGD.png, id=106, 709.14937pt x 256.70906pt>
+File: Images/SGD.png Graphic file (type png)
+<use Images/SGD.png>
+Package pdftex.def Info: Images/SGD.png  used on input line 48.
+(pdftex.def)             Requested size: 426.79134pt x 154.50058pt.
+
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 48--49
+ [][] 
+ []
+
+<Images/rmsprop.png, id=107, 700.86844pt x 247.67531pt>
+File: Images/rmsprop.png Graphic file (type png)
+<use Images/rmsprop.png>
+Package pdftex.def Info: Images/rmsprop.png  used on input line 61.
+(pdftex.def)             Requested size: 426.79134pt x 150.82472pt.
+
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 61--62
+ [][] 
+ []
+
+
+Overfull \hbox (3.54294pt too wide) in paragraph at lines 67--70
+ \OT1/cmr/bx/n/10 RMSProp Optimiser[] \OT1/cmr/m/n/10 The figure 3.7[] refects the results obtained from training
+ []
+
+[20 </Users/databunker/Desktop/FYP/FYP_report/Images/Adam Optimiser.png> </Users/databunker/Desktop/FYP/FYP_report/Images/SGD.png>]) [21 </Users/databunker/Desktop/FYP/FYP_report/Images/rmsprop.png>]
+Overfull \hbox (8.55623pt too wide) in paragraph at lines 29--33
+\OT1/cmr/m/n/10 epochs for which the model for trained and increasing the hidden and convolutional
+ []
+
+(/Users/databunker/Desktop/FYP/FYP_report/Subsections/methodology/learningRates.tex
+<Images/lr.png, id=117, 591.71063pt x 213.04594pt>
+File: Images/lr.png Graphic file (type png)
+<use Images/lr.png>
+Package pdftex.def Info: Images/lr.png  used on input line 3.
+(pdftex.def)             Requested size: 426.79134pt x 153.66927pt.
+
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 3--4
+ [][] 
+ []
+
+)) [22 </Users/databunker/Desktop/FYP/FYP_report/Images/lr.png>]
+Chapter 4.
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/eval.tex) [23
+
+]
+Chapter 5.
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/projectManagment.tex
+<Images/Kanban Bords.png, id=124, 846.16125pt x 497.86pt>
+File: Images/Kanban Bords.png Graphic file (type png)
+<use Images/Kanban Bords.png>
+Package pdftex.def Info: Images/Kanban Bords.png  used on input line 7.
+(pdftex.def)             Requested size: 426.79134pt x 251.10963pt.
+
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 7--8
+ [][] 
+ []
+
+[24
+
+ </Users/databunker/Desktop/FYP/FYP_report/Images/Kanban Bords.png>]) [25]
+Chapter 6.
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/reflection.tex) [26
+
+]
+Chapter 7.
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/conclusion.tex) (/Users/databunker/Desktop/FYP/FYP_report/main.bbl [27
+
+]
+Underfull \hbox (badness 1466) in paragraph at lines 5--10
+\OT1/cmr/m/n/10 neural network (ann) modeling and its application in pharmaceutical
+ []
+
+
+Overfull \hbox (1.03674pt too wide) in paragraph at lines 5--10
+\OT1/cmr/bx/n/10 URL: \OT1/cmr/m/it/10 http://www.sciencedirect.com/science/article/pii/S0731708599002721 
+ []
+
+
+Overfull \hbox (1.03674pt too wide) in paragraph at lines 28--34
+\OT1/cmr/bx/n/10 URL: \OT1/cmr/m/it/10 http://www.sciencedirect.com/science/article/pii/S0895611107000146 
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 46--52
+\OT1/cmr/m/n/10 `Border detection in dermoscopy images using hybrid thresholding on
+ []
+
+
+Overfull \hbox (1.03674pt too wide) in paragraph at lines 46--52
+\OT1/cmr/bx/n/10 URL: \OT1/cmr/m/it/10 http://www.sciencedirect.com/science/article/pii/S0895611110000819 
+ []
+
+[28
+
+]
+Overfull \hbox (1.03674pt too wide) in paragraph at lines 67--71
+\OT1/cmr/bx/n/10 URL: \OT1/cmr/m/it/10 http://www.sciencedirect.com/science/article/pii/S0933365712001108 
+ []
+
+
+Overfull \hbox (1.03674pt too wide) in paragraph at lines 82--88
+\OT1/cmr/bx/n/10 URL: \OT1/cmr/m/it/10 http://www.sciencedirect.com/science/article/pii/S0749208113000338 
+ []
+
+) [29] [30
+
+] (/Users/databunker/Desktop/FYP/FYP_report/main.aux) ) 
+Here is how much of TeX's memory you used:
+ 27261 strings out of 483242
+ 703314 string characters out of 2960027
+ 1047066 words of memory out of 3000000
+ 41971 multiletter control sequences out of 15000+200000
+ 539615 words of font info for 50 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 63i,19n,98p,941b,1139s stack positions out of 5000i,500n,10000p,200000b,50000s
+</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (31 pages, 2518412 bytes).
+PDF statistics:
+ 197 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+
