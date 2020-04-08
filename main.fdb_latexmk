@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1586384162 "main.aux" "main.bbl" "main" 1586386246
+["bibtex main"] 1586384162 "main.aux" "main.bbl" "main" 1586386271
   "./References.bib" 1584929099 17477 47176fe3a18e0d430f29034e84692f50 ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/bibtex/bst/harvard/agsm.bst" 1583620651 25549 e3d0f1ab4ae55e777f7352db30e2c6f7 ""
-  "main.aux" 1586386241 7883 262043dc287bcfa19bebd0a9654d66bd "pdflatex"
+  "main.aux" 1586386266 7883 262043dc287bcfa19bebd0a9654d66bd "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1586386232 "/Users/databunker/Desktop/FYP/FYP_report/main.tex" "/Users/databunker/Desktop/FYP/FYP_report/main.pdf" "main" 1586386246
+["pdflatex"] 1586386256 "/Users/databunker/Desktop/FYP/FYP_report/main.tex" "/Users/databunker/Desktop/FYP/FYP_report/main.pdf" "main" 1586386271
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1582889683 1004 54797486969f23fa377b128694d548df ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1582889683 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm" 1582889692 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -192,7 +192,7 @@
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty" 1582889723 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1582889723 57049 74963e80d77be39a0b7442967b27c75b ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1582889724 5114 7b29256db7beb005a4e6eab73b3baa48 ""
-  "/Users/databunker/Desktop/FYP/FYP_report/main.aux" 1586386241 7883 262043dc287bcfa19bebd0a9654d66bd ""
+  "/Users/databunker/Desktop/FYP/FYP_report/main.aux" 1586386266 7883 262043dc287bcfa19bebd0a9654d66bd ""
   "/Users/databunker/Desktop/FYP/FYP_report/main.tex" 1586144875 1716 51bd4a32c1746d7b912bd2de06b8f163 ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1582891650 6884600 7517665122a60cdf37b3f1719c53caa6 ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map" 1585478142 77580 0902bf85dfadfdef13ad4bb0cb98be38 ""
@@ -233,17 +233,17 @@
   "Subsections/humanbrain.tex" 1585145546 729 f1beb52ffefdfc438eaca74ed11a3202 ""
   "Subsections/method_overview.tex" 1585781851 2106 8a0a51de4a56f89c38a4026fe4838893 ""
   "Subsections/methodology/cnntraining.tex" 1586382641 4368 4a3aff73aa1e9079e3c61c430e00b7d6 ""
-  "Subsections/methodology/learningRates.tex" 1586386231 1072 7ce9c733b1a356aade1296cb4562c855 ""
+  "Subsections/methodology/learningRates.tex" 1586386256 1068 eb8820de42b4a531fe1701c7e46220c6 ""
   "Subsections/normalisation.tex" 1585781257 676 c302b8af5722536526a96fb6e90e4c4a ""
   "Subsections/segmentation.tex" 1585782028 1746 38ad6482b1d0f34f6601fc4f656d9054 ""
-  "main.aux" 1586386241 7883 262043dc287bcfa19bebd0a9654d66bd "pdflatex"
+  "main.aux" 1586386266 7883 262043dc287bcfa19bebd0a9654d66bd "pdflatex"
   "main.bbl" 1586384162 6050 7081f314c2c16f82267e8cb4c79cadd1 "bibtex main"
   "main.tex" 1586144875 1716 51bd4a32c1746d7b912bd2de06b8f163 ""
-  "main.toc" 1586386242 2089 10977216454e0d96f6f13a5c87c8c865 "pdflatex"
+  "main.toc" 1586386266 2089 10977216454e0d96f6f13a5c87c8c865 "pdflatex"
   (generated)
-  "/Users/databunker/Desktop/FYP/FYP_report/main.log"
-  "/Users/databunker/Desktop/FYP/FYP_report/main.pdf"
-  "main.log"
   "main.pdf"
   "main.toc"
   "main.aux"
+  "main.log"
+  "/Users/databunker/Desktop/FYP/FYP_report/main.pdf"
+  "/Users/databunker/Desktop/FYP/FYP_report/main.log"
