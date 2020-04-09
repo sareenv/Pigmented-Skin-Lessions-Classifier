@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  8 APR 2020 23:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.28)  9 APR 2020 01:29
 entering extended mode
 **/Users/databunker/Desktop/FYP/FYP_report/main.tex
 (/Users/databunker/Desktop/FYP/FYP_report/main.tex
@@ -738,14 +738,14 @@ Overfull \hbox (81.79134pt too wide) in paragraph at lines 3--4
  [][] 
  []
 
-)) [22 </Users/databunker/Desktop/FYP/FYP_report/Images/lr.png>]
+[22 </Users/databunker/Desktop/FYP/FYP_report/Images/lr.png>])) [23]
 Chapter 4.
-(/Users/databunker/Desktop/FYP/FYP_report/Chapters/eval.tex) [23
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/eval.tex) [24
 
 ]
 Chapter 5.
 (/Users/databunker/Desktop/FYP/FYP_report/Chapters/projectManagment.tex
-<Images/Kanban Bords.png, id=124, 846.16125pt x 497.86pt>
+<Images/Kanban Bords.png, id=128, 846.16125pt x 497.86pt>
 File: Images/Kanban Bords.png Graphic file (type png)
 <use Images/Kanban Bords.png>
 Package pdftex.def Info: Images/Kanban Bords.png  used on input line 7.
@@ -755,15 +755,15 @@ Overfull \hbox (81.79134pt too wide) in paragraph at lines 7--8
  [][] 
  []
 
-[24
+[25
 
- </Users/databunker/Desktop/FYP/FYP_report/Images/Kanban Bords.png>]) [25]
+ </Users/databunker/Desktop/FYP/FYP_report/Images/Kanban Bords.png>]) [26]
 Chapter 6.
-(/Users/databunker/Desktop/FYP/FYP_report/Chapters/reflection.tex) [26
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/reflection.tex) [27
 
 ]
 Chapter 7.
-(/Users/databunker/Desktop/FYP/FYP_report/Chapters/conclusion.tex) (/Users/databunker/Desktop/FYP/FYP_report/main.bbl [27
+(/Users/databunker/Desktop/FYP/FYP_report/Chapters/conclusion.tex) (/Users/databunker/Desktop/FYP/FYP_report/main.bbl [28
 
 ]
 Underfull \hbox (badness 1466) in paragraph at lines 5--10
@@ -790,7 +790,7 @@ Overfull \hbox (1.03674pt too wide) in paragraph at lines 46--52
 \OT1/cmr/bx/n/10 URL: \OT1/cmr/m/it/10 http://www.sciencedirect.com/science/article/pii/S0895611110000819 
  []
 
-[28
+[29
 
 ]
 Overfull \hbox (1.03674pt too wide) in paragraph at lines 67--71
@@ -802,21 +802,21 @@ Overfull \hbox (1.03674pt too wide) in paragraph at lines 82--88
 \OT1/cmr/bx/n/10 URL: \OT1/cmr/m/it/10 http://www.sciencedirect.com/science/article/pii/S0749208113000338 
  []
 
-) [29] [30
+) [30] [31
 
 ] (/Users/databunker/Desktop/FYP/FYP_report/main.aux) ) 
 Here is how much of TeX's memory you used:
  27261 strings out of 483242
  703314 string characters out of 2960027
- 1047066 words of memory out of 3000000
+ 1047065 words of memory out of 3000000
  41971 multiletter control sequences out of 15000+200000
  539615 words of font info for 50 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  63i,19n,98p,941b,1139s stack positions out of 5000i,500n,10000p,200000b,50000s
 </Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (31 pages, 2518412 bytes).
+Output written on /Users/databunker/Desktop/FYP/FYP_report/main.pdf (32 pages, 2519556 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
+ 200 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 

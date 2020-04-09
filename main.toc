@@ -23,8 +23,9 @@
 \contentsline {paragraph}{Adam Optimiser}{20}%
 \contentsline {paragraph}{SGD Optimiser}{20}%
 \contentsline {paragraph}{RMSProp Optimiser}{21}%
-\contentsline {section}{\numberline {3.3}Experiments with Hyperparameters}{22}%
-\contentsline {chapter}{\numberline {4}Evaluations and Results}{23}%
-\contentsline {chapter}{\numberline {5}Project Managment}{24}%
-\contentsline {chapter}{\numberline {6}Reflection}{26}%
-\contentsline {chapter}{\numberline {7}Conclusion}{27}%
+\contentsline {subsection}{\numberline {3.2.2}Experiments with Hyperparameters}{22}%
+\contentsline {subsubsection}{Experiments with learning rates}{22}%
+\contentsline {chapter}{\numberline {4}Evaluations and Results}{24}%
+\contentsline {chapter}{\numberline {5}Project Managment}{25}%
+\contentsline {chapter}{\numberline {6}Reflection}{27}%
+\contentsline {chapter}{\numberline {7}Conclusion}{28}%
