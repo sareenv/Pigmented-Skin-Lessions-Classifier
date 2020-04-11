@@ -3,13 +3,19 @@ The repository contains the experiments with convolutional network architectures
 
 ## Required Libraries
 <ul>
-    <li> Keras 2.0 <a link="https://pypi.org/project/Keras/"> Install </a> </li>
-    <li> Matplotlib <a link="https://pypi.org/project/matplotlib/"> Install </a> </li>
-    <li> Pillow <a link="https://pypi.org/project/Pillow/"> Install </a> </li>
+    <li> Keras 2.0 </li>
+    <li> Matplotlib </li>
+    <li> Pillow</li>
     <li> Sklearn </li>
-    <li> Pandas <a link="https://pypi.org/project/pandas/"> Install </a></li>
-    <li> Numpy <a link="https://pypi.org/project/numpy/"> Install </a></li>
+    <li> Pandas</li>
+    <li> Numpy</li>
 </ul>
 
+All the above packages can be installed directly using Anaconda Installer which will also install Jupyter notebooks 
+present in the ```Research``` folder. Anaconda downloader can be downloaded from the link <a link="https://www.anaconda.com/distribution/"> Download </a>.
+
+## Required Dataset and Configuration
+The models can be trained on CPU however, the training speed will be extermly slow, I would recommend to install CUDA libarary which can be used to train the model on GPU for faster processing. The required installation instructions can be found from <a link="https://www.tensorflow.org/install/gpu"> Installation Guide </a>
+
 ## Author. 
-The author of the research project is Vinayak Sareen for any further query kindly, contact at sareev@uni.coventry.ac.uk 
+The author of this research project is Vinayak Sareen for any further query kindly, contact at sareev@uni.coventry.ac.uk 
