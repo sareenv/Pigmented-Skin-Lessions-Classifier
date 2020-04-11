@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>PSL Image Detector</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@0.13.5"></script>
+  </head>
+  <body>
+    <div class="jumbotron">
+      <h1 class="display-4">Automated Pigmented Skin Lesions Detection</h1>
+      <p class="lead">Convolutional Neural Network trained using keras is deployed for automated analysis of pigmented skin 
+        lesions using darmatoscopic images.
+      </p>
+      <hr class="my-4">
+    </div>
+
+    <div class="container">
+      <div class="col">
+        <input id="fileupload" class="input-group mb-3" type="file" accept="image/*"/>
+        <img src="#" class="rounded float-left" id= "pslImage" style= "display: none;" /> <br>
+        <button id="submit" class="btn btn-primary"> Classify </button>
+        <button id="submit" class="btn btn-danger"> Clear Image </button>
+      </div>
+    <div>
+  </body>
+  <script src="./js/web.js"></script>
+</html>
