@@ -1,5 +1,4 @@
 ## Convolutional Neural Network for classification of Pigmented Skin lesions.
-<img src="https://miro.medium.com/max/12500/1*1mpE6fsq5LNxH31xeTWi5w.jpeg"/>
 The repository contains the experiments with convolutional network architectures and hyper-parameters to find optimal intelligent model to detect pigmented skin lesions. The Research folder contains all the implementation of the model and related tasks such data preparation and image segmentation process. The models are trained using <a link="https://keras.io/"> Keras 2.0 </a> and results are plotted using the matplotlib visualisation libary.
 
 ## Required Libraries
