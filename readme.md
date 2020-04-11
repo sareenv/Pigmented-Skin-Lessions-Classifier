@@ -9,7 +9,7 @@ The repository contains the experiments with convolutional network architectures
     <li> Sklearn </li>
     <li> Pandas <a link="https://pypi.org/project/pandas/"> Install </a></li>
     <li> Numpy <a link="https://pypi.org/project/numpy/"> Install </a></li>
-<ul>
+</ul>
 
 ## Author. 
 The author of the research project is Vinayak Sareen for any further query kindly, contact at sareev@uni.coventry.ac.uk 
