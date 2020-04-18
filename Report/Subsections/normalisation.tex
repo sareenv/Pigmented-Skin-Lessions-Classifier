@@ -1,6 +1,4 @@
-The images with RGB(Red, Green and Blue) channels information was stored in numpy mutli-demensional array with numbers ranging from 0 to 255.
-The numpy array was converted into the float32 format and each element of the array was divided by 255 to normalise the data so, that 
-it only ranges between 0 and 1 in float format which will help while training the model. In addition, one hot encoding 
-was performed on class labels of the pigmented lesions. The one hot encoding is a representation of categorical variable 
-as binary vector and normalise the categorical labels into binary vector. One hot encoding was performed to the labels data for each 
-pigmented skin leisons.
+The images with RGB(Red, Green and Blue) channels information was stored in NumPy multi-dimensional array with numbers ranging from 0 to 255.
+The NumPy array was converted into the float32 format, and each element of the array was divided by 255 to normalise the data so, that it only ranges between 0 and 1 in float format which will help while training the model. In addition, one hot encoding was performed on class labels of the pigmented lesions. The one-hot encoding is a representation of the categorical variable as binary vector and normalises the categorical labels into a binary vector. One hot encoding was performed to the labels data for each pigmented skin lesions. The data normalisation process will help to train the models as images 
+from training and testing data samples are ranging from 0 to 1 instead of 255 which results in 
+the improved model accuracy.
