@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1587343628 "main.aux" "main.bbl" "main" 1587343634
+["bibtex main"] 1587343628 "main.aux" "main.bbl" "main" 1587343765
   "./References.bib" 1587323711 17477 47176fe3a18e0d430f29034e84692f50 ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/bibtex/bst/harvard/agsm.bst" 1587237907 25549 e3d0f1ab4ae55e777f7352db30e2c6f7 ""
-  "main.aux" 1587343632 10658 9cfb0dfc1c32bb44d909830624f140ac "pdflatex"
+  "main.aux" 1587343765 10658 9cfb0dfc1c32bb44d909830624f140ac "pdflatex"
   (generated)
   "main.blg"
   "main.bbl"
-["pdflatex"] 1587343628 "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.tex" "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.pdf" "main" 1587343634
+["pdflatex"] 1587343760 "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.tex" "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.pdf" "main" 1587343765
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1582889683 1004 54797486969f23fa377b128694d548df ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1582889683 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm" 1582889692 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -192,7 +192,7 @@
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty" 1582889723 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1582889723 57049 74963e80d77be39a0b7442967b27c75b ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1582889724 5114 7b29256db7beb005a4e6eab73b3baa48 ""
-  "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.aux" 1587343632 10658 9cfb0dfc1c32bb44d909830624f140ac ""
+  "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.aux" 1587343765 10658 9cfb0dfc1c32bb44d909830624f140ac ""
   "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.tex" 1587323711 1792 aaf6bedb6aa816f7240cc899e7ed0c9c ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1587237803 10018597 b1cfe654ea3bfd585d8bf07fa4828cfe ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map" 1587237908 77580 0902bf85dfadfdef13ad4bb0cb98be38 ""
@@ -238,17 +238,17 @@
   "Subsections/humanbrain.tex" 1587323711 729 f1beb52ffefdfc438eaca74ed11a3202 ""
   "Subsections/method_overview.tex" 1587323711 2602 2413de6b25a17b3ad8dd6bf2310e8012 ""
   "Subsections/methodology/cnntraining.tex" 1587343631 5102 346f1b6e30263f6ee0b59d0245acff1c ""
-  "Subsections/methodology/learningRates.tex" 1587342950 2093 480cb66e2d96c2e60e0da10fd061b3e7 ""
+  "Subsections/methodology/learningRates.tex" 1587343759 2119 25dfb8459e66b4ea3e89fec35b6080c0 ""
   "Subsections/normalisation.tex" 1587323711 877 9eee75688c6f370dc94e1f256d7d6ad8 ""
   "Subsections/segmentation.tex" 1587323711 1842 01e1a6c44c68f8dfbd7e4ea9f22b9952 ""
-  "main.aux" 1587343632 10658 9cfb0dfc1c32bb44d909830624f140ac "pdflatex"
+  "main.aux" 1587343765 10658 9cfb0dfc1c32bb44d909830624f140ac "pdflatex"
   "main.bbl" 1587343628 6050 7081f314c2c16f82267e8cb4c79cadd1 "bibtex main"
   "main.tex" 1587323711 1792 aaf6bedb6aa816f7240cc899e7ed0c9c ""
-  "main.toc" 1587343632 3243 208b8dde2b623cca9bdec7d3a7d34d04 "pdflatex"
+  "main.toc" 1587343765 3243 208b8dde2b623cca9bdec7d3a7d34d04 "pdflatex"
   (generated)
-  "main.toc"
-  "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.log"
   "main.pdf"
+  "main.toc"
+  "main.aux"
   "main.log"
   "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.pdf"
-  "main.aux"
+  "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.log"
