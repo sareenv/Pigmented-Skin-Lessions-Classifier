@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7350)
+Capacity: max_strings=4000, hash_size=5000, hash_prime=4253
+The top-level auxiliary file: main.aux
+The style file: agsm.bst
+Database file #1: ./References.bib
+Warning--entry type for "DVN/DBW86T_2018" isn't style-file defined
+--line 113 of file ./References.bib
+Warning--I'm ignoring DanielJensen2015's extra "note" field
+--line 177 of file ./References.bib
+You've used 15 entries,
+            2909 wiz_defined-function locations,
+            758 strings with 8583 characters,
+and the built_in function-call counts, 90023 in all, are:
+= -- 14879
+> -- 1160
+< -- 1
++ -- 7256
+- -- 357
+* -- 7999
+:= -- 17563
+add.period$ -- 19
+call.type$ -- 15
+change.case$ -- 209
+chr.to.int$ -- 15
+cite$ -- 15
+duplicate$ -- 265
+empty$ -- 564
+format.name$ -- 419
+if$ -- 16269
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 15
+newline$ -- 60
+num.names$ -- 158
+pop$ -- 61
+preamble$ -- 1
+purify$ -- 225
+quote$ -- 0
+skip$ -- 227
+stack$ -- 0
+substring$ -- 21385
+swap$ -- 63
+text.length$ -- 211
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 58
+warning$ -- 0
+while$ -- 332
+width$ -- 0
+write$ -- 217
+(There were 2 warnings)
