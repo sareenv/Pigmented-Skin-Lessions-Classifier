@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1587742582 "main.aux" "main.bbl" "main" 1587742587
+["bibtex main"] 1587748712 "main.aux" "main.bbl" "main" 1587748718
   "./References.bib" 1587323711 17477 47176fe3a18e0d430f29034e84692f50 ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/bibtex/bst/harvard/agsm.bst" 1587237907 25549 e3d0f1ab4ae55e777f7352db30e2c6f7 ""
-  "main.aux" 1587742586 11038 7b616a7e976c1b64c67cb9cffe1aa2db "pdflatex"
+  "main.aux" 1587748717 11151 b29a311972dcff7842726cd6de378178 "pdflatex"
   (generated)
-  "main.blg"
   "main.bbl"
-["pdflatex"] 1587742582 "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.tex" "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.pdf" "main" 1587742587
+  "main.blg"
+["pdflatex"] 1587748713 "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.tex" "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.pdf" "main" 1587748718
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1582889683 1004 54797486969f23fa377b128694d548df ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1582889683 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm" 1582889692 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -192,7 +192,7 @@
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty" 1582889723 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1582889723 57049 74963e80d77be39a0b7442967b27c75b ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1582889724 5114 7b29256db7beb005a4e6eab73b3baa48 ""
-  "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.aux" 1587742586 11038 7b616a7e976c1b64c67cb9cffe1aa2db ""
+  "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.aux" 1587748717 11151 b29a311972dcff7842726cd6de378178 ""
   "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.tex" 1587685521 1737 8d47d7cb07391f7a8f2865c43be668d2 ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1587237803 10018597 b1cfe654ea3bfd585d8bf07fa4828cfe ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map" 1587237908 77580 0902bf85dfadfdef13ad4bb0cb98be38 ""
@@ -214,7 +214,7 @@
   "Chapters/eval.tex" 1587323711 516 e8c47098a6a5c832b445011c7ab1c96f ""
   "Chapters/introduction.tex" 1587661100 5381 255c0f1c8a8611757a2226c33571e8ad ""
   "Chapters/l_review.tex" 1587323711 6662 4bbcdbe28863ec3886a0b70a0b1ec210 ""
-  "Chapters/methodology.tex" 1587742404 2291 8b05fd3d5ccce20f13860e3db5aef344 ""
+  "Chapters/methodology.tex" 1587748706 2338 f6cd0d0b6bc407855edb612b40d5e492 ""
   "Chapters/originality.tex" 1587323711 1299 2a4b404e32461c6341db7e0fac1fa1ce ""
   "Chapters/projectManagment.tex" 1587588698 2289 23b5ac54b9ba081aed1309a9ef7d3a5a ""
   "Documents/consent.pdf" 1587323711 188131 19fce9dbb55b01ec9bb1c45207620f3e ""
@@ -248,14 +248,14 @@
   "Subsections/methodology/learningRates.tex" 1587742577 2092 57f5986b11b8eb30c1332b07f6e43319 ""
   "Subsections/normalisation.tex" 1587323711 877 9eee75688c6f370dc94e1f256d7d6ad8 ""
   "Subsections/segmentation.tex" 1587686052 1854 10e4b5f08437af5e8c5bdffbd059eddf ""
-  "main.aux" 1587742586 11038 7b616a7e976c1b64c67cb9cffe1aa2db "pdflatex"
-  "main.bbl" 1587742582 6050 7081f314c2c16f82267e8cb4c79cadd1 "bibtex main"
+  "main.aux" 1587748717 11151 b29a311972dcff7842726cd6de378178 "pdflatex"
+  "main.bbl" 1587748713 6050 7081f314c2c16f82267e8cb4c79cadd1 "bibtex main"
   "main.tex" 1587685521 1737 8d47d7cb07391f7a8f2865c43be668d2 ""
-  "main.toc" 1587742586 3434 0badcdf565348f817cd5cb16221ae83e "pdflatex"
+  "main.toc" 1587748717 3506 2390364eda44ec8ac0874fd86e8f9c35 "pdflatex"
   (generated)
-  "main.toc"
-  "main.log"
   "main.pdf"
   "main.aux"
   "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.pdf"
   "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.log"
+  "main.log"
+  "main.toc"
