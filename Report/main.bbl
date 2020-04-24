@@ -101,6 +101,12 @@ Loescher, L.~J., Janda, M., Soyer, H.~P., Shea, K. \harvardand\
   regression with multiple variables, {\em in} `2014 International Conference
   on ICT For Smart Society (ICISS)', pp.~202--205.
 
+\harvarditem{O'Shea \harvardand\ Nash}{2015}{DBLP:journals/corr/OSheaN15}
+O'Shea, K. \harvardand\ Nash, R.  \harvardyearleft 2015\harvardyearright , `An
+  introduction to convolutional neural networks', {\em CoRR} {\bf
+  abs/1511.08458}.
+\newline\harvardurl{http://arxiv.org/abs/1511.08458}
+
 \harvarditem{Patterson \harvardand\ Gibson}{2017}{patterson2017deep}
 Patterson, J. \harvardand\ Gibson, A.  \harvardyearleft 2017\harvardyearright ,
   {\em Deep learning: A practitioner's approach}, " O'Reilly Media, Inc.".

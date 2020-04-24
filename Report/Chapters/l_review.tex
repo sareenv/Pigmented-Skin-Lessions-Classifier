@@ -1,64 +1,11 @@
-\subsection{Convolutional Neural Networks}
-The convolutional neural networks are the feed-forwards neural 
-networks which contains alternative convolutional layers and sampling 
-layer which at the end is connected to fully connected neural networks \citep{liew2016gender}.
-The objective of the convolutional layers is to extract the features from 
-the given input image samples by applying filters which is used in the training 
-of overall network.
-
-\pagebreak
 \subsection{Convential Diagnosis Methods}
-The most common conventional diagnosis method of detection involves
-using ABCD rule which considers the Asymmetry, Border irregularity,
-Colour irregularities and  Dermoscopic structures respectively of the
-common pigmented skin lesions \citep{LOESCHER2013170}. 
-The rule for classification was introduced in 1985 as abcd 
-rule and was amended with abcde in 2004 where ‘E’ reflects the 
-lesions which are evolving. An alternative method of examination of
-pigmented skin lesions is  ugly duckling signs which was introduced 
-to state the limitation of the ABCD rule \citep{DanielJensen2015}.
-The ugly duckling signs state the spot which is unlike other 
-lesions are great suspects of melanoma \citep{grob1998ugly}.
-Despite the limitations of above methods, both provide a great
-framework for clinicians and general audiences to spot melanoma 
-based symptoms \citep{DanielJensen2015}.
-Small malignant melanoma are millimeters in size in initial phases
-of its growth.  
-The micro-melanoma requires more attention to be
-detected by physicians and researchers believe that small 
-lesions possess challenges for medical professionals to 
-clearly examine malignant based problems \citep{doi:10.1177/030089160409000125}.
-Dermatoscopy is non-invasive microscopic imaging of pigmented skin 
-lesions which provides clear imaging to perform proper analysis on 
-pigmented skin lesions \citep{LOESCHER2013170}. 
-The study was conducted in Italy for the period of five years in 
-which ninety four melanoma based lesions. Furthermore, results 
-were treated to examine the clinical and dermoscopic features of 
-cutaneous melanoma lesions with maximum diameter of 3mm. 
-The outcome of the research has shown that only samples of twenty two lesions which 
-accounts for 2.4 percent of overall samples were decided based on
-the clinical size feature of pigmented skin lesions \citep{doi:10.1177/030089160409000125}.
-Moreover, the research mentions that dermoscopic results are more accurate to diagnose 
-and has been an aid for early detection of melanoma skin cancer 
-provided the clinicians are aware about disease \citep{doi:10.1177/030089160409000125}.
-The result of dermatoscopic images is examined by dermatologists to classify the pigmented skin lesion.
-Dermatologists select different approaches to examine pigmented
-skin lesions which might include ABCDE rule or ugly duckling signs, 
-where both the methods complement each other to detect pigmented skin lesions. 
-The research proposed an addition of ‘F’ to mnemonic which uses both 
-current methods ugly duckling sign and ABCDE rule which also account 
-for funny or unlike lesions to be suspect of melanoma based lesion \citep{doi:10.1177/030089160409000125}.
+\input{Subsections/conventional}
 
-\subsection{Support Vector Based Machine}
-Thompson Felsia and Jeyakumar proposed research in 2017 on 
-support vector machine based classifier to detect multi-lesions skin cancer by analysing pigmented skin lesions with an accuracy of 86.37 percent.
-The proposed investigation with SVM based classifier has performed image segmentation using SRM (support region merging) algorithm. Furthermore, it employs SURF (speed up robust features) to find the region 
-of interest for feature extraction to get optimal classification performance based on vector-based technique \citep{thompson2017vector}. 
-However, the research does not include image augmentation which generalises the predictions accurate to test in 
-real-world environment. The research papers mention that support vector machine for automated classification of pigmented skin lesions is sensitive to the artefacts and can 
-potentially increase the false positives which mean that predicted result for analysis was wrong positive prediction instead of an actual negative result. The investigation will perform image augmentation to generate random 
-samples of images with different rotation angle and flipped images will be used to train and test the model to generalise the overall performance.
+\subsection{Functioning of Convolutional Neural Networks}
+\input{Subsections/cnn_functioning}
 
+\subsection{SVM Algorithm to classify Pigmented Skin lesions}
+\input{Subsections/svm}
 \subsection{Border Detection Based System}
 Rahil Garnavi and his other co-researchers purposed research based on a state of the art border detection method combined with the colour space analysis and clustering-based histogram hybrid thresholding 
 to classify pigmented skin lesions. The research was primarily focused on the research was to develop the hair removal mechanism to perform colour channels transformation. Furthermore, for all the image channels the noise reduction 
