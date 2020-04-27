@@ -41,6 +41,11 @@ Daniel~Jensen, J. \harvardand\ Elewski, B.~E.  \harvardyearleft
 \newblock 25741397[pmid].
 \newline\harvardurl{https://pubmed.ncbi.nlm.nih.gov/25741397}
 
+\harvarditem{Digite}{2017}{kban}
+Digite  \harvardyearleft 2017\harvardyearright , Online.
+\newblock Accessed 03-2020.
+\newline\harvardurl{https://www.digite.com/kanban/}
+
 \harvarditem[Garnavi et~al.]{Garnavi, Aldeen, Celebi, Varigos \harvardand\
   Finch}{2011}{GARNAVI2011105}
 Garnavi, R., Aldeen, M., Celebi, M.~E., Varigos, G. \harvardand\ Finch, S.
@@ -117,11 +122,6 @@ O'Shea, K. \harvardand\ Nash, R.  \harvardyearleft 2015\harvardyearright , `An
 Patterson, J. \harvardand\ Gibson, A.  \harvardyearleft 2017\harvardyearright ,
   {\em Deep learning: A practitioner's approach}, " O'Reilly Media, Inc.".
 
-\harvarditem{Point}{n.d.}{sdlc}
-Point, T.  \harvardyearleft n.d.\harvardyearright , Online.
-\newblock Accessed 03-2020.
-\newline\harvardurl{https://www.tutorialspoint.com/sdlc}
-
 \harvarditem{Thompson \harvardand\ Jeyakumar}{2017}{thompson2017vector}
 Thompson, F. \harvardand\ Jeyakumar, M.  \harvardyearleft 2017\harvardyearright
   , `Vector based classification of dermoscopic images using surf', {\em
@@ -133,5 +133,10 @@ Tschandl, P.  \harvardyearleft 2018\harvardyearright , `{The HAM10000 dataset,
   a large collection of multi-source dermatoscopic images of common pigmented
   skin lesions}'.
 \newline\harvardurl{https://doi.org/10.7910/DVN/DBW86T}
+
+\harvarditem{TutorialsPoint}{2015}{sdlc}
+TutorialsPoint  \harvardyearleft 2015\harvardyearright , Online.
+\newblock Accessed 03-2020.
+\newline\harvardurl{https://www.tutorialspoint.com/sdlc}
 
 \end{thebibliography}
