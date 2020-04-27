@@ -2,25 +2,7 @@
 \input{Subsections/methodology/installation.tex}
 \pagebreak
 \section{Conceptual Modelling}
-The Conceptual models of the system was designed using workflow 
-and UML(unified modelling language) diagrams to visualise
-behavioural requirments of the automated system. 
-The uml diagram was produced using visual paradigm software which provides 
-interface to produce digital architecture and system design of software solution. \footnote{\url{https://www.visual-paradigm.com/}}
-
-\subsection{Sequance UML Diagram}
-\begin{figure}[!htp]
-    \centering
-    \includegraphics[width=\textwidth]{Images/code.png}
-    \caption{Sequance Diagram}
-    \label{figure:Sequance}
-\end{figure}
-The figure \ref{figure:Sequance} represents the sequance uml (unified modelling language) diagram of the 
-system. The inital actor in the system is the user or the patient of the 
-pigmented skin lesion. The diagram shows the flow of the messages among 
-different lifelines in the system. The messages between lifelines outlines the intraction of
-the patient with the system in sequantial fashion. Therefore, the diagram helps to capture the 
-behavioural requirments of the automated system.
+\input{Subsections/methodology/conceptual}
 \section{Data Processing and Normalisation}
 \input{Subsections/method_overview}
 \subsection{Data Normalisation}
@@ -47,8 +29,63 @@ and convolutional layers. The adjustments to the hyperparameters which were made
 \subsection{Epochs Experiment}
 \input{Subsections/methodology/epochs}
 
-\pagebreak
-\section{Transfer Learning}
+\section{Segmented Model Training}
+\begin{figure}[!htp]
+    \centering
+    \includegraphics[width=\textwidth]{Images/segmented.png}
+    \caption{Segmented Model Training}
+    \label{fig:segmodel}
+\end{figure}
+The model training was performed using the segmented images of pigmented skin lesions as mentioned in the 
+image processing section. The model with same architecture was trained under thirty epochs using SGD optimiser. The experiment performed above resulted in 74.0\% model 
+accuracy on testing data. The figure \ref{fig:segmodel} shows the increase in accuracy rate of training and 
+validation data and decline in the loss function.
 
 \pagebreak
-\section{VGG16 Model Architecture}
+\section{Transfer Learning}
+\input{Subsections/methodology/transferlearning}
+\pagebreak
+\section{VGG16 Architecture}
+\begin{figure}[!htp]
+    \centering
+    \includegraphics[width=\textwidth]{Images/vgg16.png}
+    \caption{VGG16 Model Architecture}
+\end{figure}
+
+The VGG16 model is heavy model architecture containing 16 layers in the 
+model. The model architecture consist of 13 convolutional, 5 pooling and 3 fully connected 
+layers. Due to the heavy model architecture with estimated 138 million parameters
+and limited hardware resources it was not possible to trian the model on personal machine. As, a result the google colab platform was used develop
+the convolutional network \footnote{\url{https://colab.research.google.com/drive/1QHIHhu28sSiW0T-ZGTwg0bp-bulW30l1}}.
+
+\begin{figure}[!htp]
+    \centering
+    \includegraphics[width=\textwidth]{Images/vgg16Results.png}
+    \caption{VGG16 Model Architecture}
+    \label{fig:vggRes}
+\end{figure}
+The figure \ref{fig:vggRes} shows the graph of model accuracy increasing over the 
+epochs and decline in the loss function. The VGG model was trained using the SGD optimiser and learning 
+rate of 0.01 which resulted in accuracy of 78.14\% over the 60 epochs. 
+\subsection{Transfer Learning with VGG16}
+Another, test was performed to evaluate the performance of the model with transfering the
+weights obtained from the model mentioned above for 300 epochs.
+
+\begin{figure}[!htp]
+    \centering
+    \includegraphics[width=\textwidth]{Images/vgg162.png}
+    \caption{VGG16 Model Architecture}
+    \label{fig:vggRes2}
+\end{figure}
+
+In the figure \ref{fig:vggRes2} the training and validation accuracy 
+was increasing with same growth with increase in the number of epochs.
+The result obtained from the experiment was 77.48\% on testing data which is 
+worst then the evaluation of the previous model. The poor model accuracy could be a result 
+of overfitting of the convolutional network.
+
+\pagebreak
+\section{Lenet Architecture}
+
+\pagebreak
+\section{Model Deployment}

@@ -19,8 +19,16 @@ predected value - actual value. The objective of optimisation algorithms is
 minimise the equation(1.2) to decrease the value of cost function so, the value is 
 close to zero as much as possible so, that predected and actual 
 value are almost same which means overall model accuracy has improved \citep{7013173}.
-The algorithm which aims to minimise the cost function is gradient descent. Gradient descent algorithm 
-is a optimisation algorithm which is iterative in nature. 
+
+\begin{figure}[!htp]
+    \centering
+    \includegraphics[width=\textwidth]{Images/gd.png}
+    \caption{Gradient Descent}
+\end{figure}
+
+Gradient descent algorithm  is a optimisation algorithm which is iterative in nature aims 
+to minimise the cost function is gradient descent. The algorithm functions by minimising the objective 
+function in the space. 
 
 \begin{center}
     \begin{equation}
@@ -34,7 +42,7 @@ is a optimisation algorithm which is iterative in nature.
 
 
 The algorithm functions by finding the 
-partial deravative of the cost function in respect to weights and bias as shown in the equation above.
-The objective is to find minima of the cost fuction which improves the accuracy \citep{7013173}. 
+partial deravative of the cost function in respect to weights and bias as shown in the equations (1.3) and  (1.4) above.
+The objective is to find minmum of the cost fuction which improves the accuracy \citep{7013173}. 
 Backpropagation utilises the gradient descent algorithm and propgates after each layer to 
-update the bias and weights in backwards direction to improve accuracy of the model. 
+update the bias and weights in backwards direction to improve accuracy of the model.

@@ -4,6 +4,22 @@
 \subsection{Functioning of Convolutional Neural Networks}
 \input{Subsections/cnn_functioning}
 
+\subsection{Lenet Model Architecture}
+\begin{figure}[!htp]
+    \centering
+    \includegraphics[width=\textwidth]{Images/lenet.png}
+    \label{figure:lenetarc}
+\end{figure}
+In 1998, the lenet-5 the model architecture was purposed by Yann Lecun in an attempt to recognise handwritten images of mathematical digits.
+The figure \ref{figure:lenetarc} shows the lenet-5 model architecture, the model only consists of seven overall layers and two layers are convolutional to extract the feature maps from given 32 * 32 pixel of the image \citep{lecun1998gradient}. 
+Lenet architecture focuses on applying the 5 * 5 convolution to extract 6 feature maps of size 28 * 28 pixels. Furthermore, sub-sampling is performed on the feature maps using the average pooling algorithm and contains the 6 feature maps of size 14 * 14 followed by a convolutional layer of 16 feature maps of size 10 * 10 \citep{lecun1998gradient}. 
+Further process of downsampling is performed on feature maps using average pooling and processed through a fully connected neural network. 
+The model was used in the banks to detect handwritten digits on the documents. 
+The lenet architecture was one of the earliest convolutional network to perform the automation in banking 
+sector. The research project will focus on using the lenet convolutional model architecture on detecting 
+the pigmented skin lesion to investigate it's performance.
+
+
 \subsection{SVM Algorithm to classify Pigmented Skin lesions}
 \input{Subsections/svm}
 \subsection{Border Detection Based System}
@@ -21,8 +37,7 @@ the cost function using the backpropagation algorithm. The current research will
 segmentation based on the binary threshold algorithm as an experiment to help network detecting more accurate
 borders of pigmented skin lesions.
 
-\subsection*{Deep Feature to classify Pigmented Skin lesions}
-
+\subsection{Deep Feature to classify Pigmented Skin lesions}
 In 2016, a research paper from Simon Fraser University’s computer science and medical image analysis lab had researched using 
 deep residual network architecture with ten labelled 
 classes of pigmented skin lesions. The research was based on very 
@@ -30,7 +45,8 @@ deep convolutional network architecture with the accuracy
 of 85.8 percent in classifying five distinct classes and
 81 percent in classifying 10 classes of pigmented skin lesions
 \citep{7493528}. Although the performance of the overall convolutional network was accurate, the training and testing data were limited to 13,00 overall images of 10 distinct classes.
- However, In the current research project, the classes of labelled images will be five and around 9,000 overall images will be used during the investigation.
- Estimated 80 percent of data will be consumed for training the model, and the rest of the label images will be used as validation and testing datasets 
- to evaluate the performance of the model. 
- Research is also consuming such artificial neural network-based technologies to various areas of investigations.
+However, In the current research project, the classes of labelled images will be five and around 9,000 overall images will be used during the investigation.
+Estimated 80 percent of data will be consumed for training the model, and the rest of the label images will be used as validation and testing datasets 
+to evaluate the performance of the model. Research is also consuming such artificial neural network-based technologies to various areas of investigations.
+\pagebreak
+\subsection{Code123123}

@@ -77,6 +77,12 @@ Korotkov, K. \harvardand\ Garcia, R.  \harvardyearleft 2012\harvardyearright ,
   Conference on Neural Networks. Proceedings (Cat. No.01CH37222)', Vol.~2,
   pp.~1516--1520 vol.2.
 
+\harvarditem[LeCun et~al.]{LeCun, Bottou, Bengio \harvardand\
+  Haffner}{1998}{lecun1998gradient}
+LeCun, Y., Bottou, L., Bengio, Y. \harvardand\ Haffner, P.  \harvardyearleft
+  1998\harvardyearright , `Gradient-based learning applied to document
+  recognition', {\em Proceedings of the IEEE} {\bf 86}(11),~2278--2324.
+
 \harvarditem[Liew et~al.]{Liew, Hani, Radzi \harvardand\
   Bakhteri}{2016}{liew2016gender}
 Liew, S.~S., Hani, M.~K., Radzi, S.~A. \harvardand\ Bakhteri, R.
