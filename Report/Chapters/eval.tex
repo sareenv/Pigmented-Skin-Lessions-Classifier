@@ -23,3 +23,38 @@ difference in time required to peform diagnosis. The purposed automated machine
 is more time efficient to predict.
 
 \section{Confusion Matrix}
+\begin{figure}[!htp]
+    \includegraphics[width=\textwidth]{Images/cm.png}
+\end{figure}
+Confusion Matrix also known as the error matrix is the table to describe the 
+perofarmance of automated system given true values of classification classes \citep{geekforgeeks}. The 
+confusion matrix also allows the misclassified predicted labels by the automated 
+and helps to evaluate the performance measures \citep{geekforgeeks}.
+
+\subsection{Recall and Precision of Automated System}
+\begin{center}
+    Recall = ${ \frac{True Positive} {False Negative + True Positive}}$
+    \label{e1}
+\end{center}
+
+\begin{center}
+    Precision = ${ \frac{True Positive} {True Positive + False Positive}}$
+\end{center}
+
+The equation above are be used to obtain the precision and recall values of the 
+convolutional neural network. The Precision and recall values are further used 
+to compute the f-measures also known as the f1score to evaluate the performance of 
+automated system. \\ 
+\begin{center}
+    F-measure = ${\frac{2 * Recall * Precision}{Recall + Precision}}$
+\end{center}
+
+\subsection{Confusion Matrix and F-measure of the Neural network}
+\begin{figure}[!htp]
+    \includegraphics[width=\textwidth]{Images/cma.png}
+    \caption{Error Matrix}
+    \label{fig:ErrorMatrix}
+\end{figure}
+
+The error matrix \ref{fig:ErrorMatrix} was plotted using heatmap in matplotlib
+visualisation library.

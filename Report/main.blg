@@ -7,45 +7,45 @@ Warning--entry type for "DVN/DBW86T_2018" isn't style-file defined
 --line 113 of file ./References.bib
 Warning--I'm ignoring DanielJensen2015's extra "note" field
 --line 177 of file ./References.bib
-You've used 20 entries,
+You've used 21 entries,
             2909 wiz_defined-function locations,
-            788 strings with 9356 characters,
-and the built_in function-call counts, 108768 in all, are:
-= -- 17894
-> -- 1437
+            791 strings with 9419 characters,
+and the built_in function-call counts, 110558 in all, are:
+= -- 18166
+> -- 1461
 < -- 1
-+ -- 8689
-- -- 441
-* -- 9611
-:= -- 21374
-add.period$ -- 26
-call.type$ -- 20
-change.case$ -- 277
-chr.to.int$ -- 20
-cite$ -- 20
-duplicate$ -- 334
-empty$ -- 718
-format.name$ -- 519
-if$ -- 19619
++ -- 8804
+- -- 448
+* -- 9743
+:= -- 21779
+add.period$ -- 28
+call.type$ -- 21
+change.case$ -- 291
+chr.to.int$ -- 21
+cite$ -- 21
+duplicate$ -- 345
+empty$ -- 744
+format.name$ -- 528
+if$ -- 19932
 int.to.chr$ -- 5
 int.to.str$ -- 0
 missing$ -- 18
-newline$ -- 80
-num.names$ -- 210
-pop$ -- 94
+newline$ -- 85
+num.names$ -- 220
+pop$ -- 102
 preamble$ -- 1
-purify$ -- 300
+purify$ -- 315
 quote$ -- 0
-skip$ -- 280
+skip$ -- 289
 stack$ -- 0
-substring$ -- 25622
-swap$ -- 72
-text.length$ -- 281
+substring$ -- 25977
+swap$ -- 73
+text.length$ -- 295
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 78
+type$ -- 82
 warning$ -- 0
-while$ -- 441
+while$ -- 462
 width$ -- 0
-write$ -- 286
+write$ -- 301
 (There were 2 warnings)
