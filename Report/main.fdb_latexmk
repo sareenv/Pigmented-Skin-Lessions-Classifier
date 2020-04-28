@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1588089478 "main.aux" "main.bbl" "main" 1588089486
+["bibtex main"] 1588089478 "main.aux" "main.bbl" "main" 1588105528
   "./References.bib" 1588080324 19774 c13fdcc7d9fed68a4d1abfb88aed5133 ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/bibtex/bst/harvard/agsm.bst" 1587237907 25549 e3d0f1ab4ae55e777f7352db30e2c6f7 ""
-  "main.aux" 1588089485 22426 aaf3eee11a3f90f14286ba3a130b2ed0 "pdflatex"
+  "main.aux" 1588105526 22426 aaf3eee11a3f90f14286ba3a130b2ed0 "pdflatex"
   (generated)
-  "main.blg"
   "main.bbl"
-["pdflatex"] 1588089479 "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.tex" "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.pdf" "main" 1588089486
+  "main.blg"
+["pdflatex"] 1588105520 "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.tex" "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.pdf" "main" 1588105528
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1582889693 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1582889683 1004 54797486969f23fa377b128694d548df ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1582889683 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -194,7 +194,7 @@
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty" 1582889723 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1582889723 57049 74963e80d77be39a0b7442967b27c75b ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1582889724 5114 7b29256db7beb005a4e6eab73b3baa48 ""
-  "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.aux" 1588089485 22426 aaf3eee11a3f90f14286ba3a130b2ed0 ""
+  "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.aux" 1588105526 22426 aaf3eee11a3f90f14286ba3a130b2ed0 ""
   "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.tex" 1588025388 1736 9ea0c6d4c90c03deb90d2fb63380e549 ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1587770486 11548 76574484d744c4127020386cee9d6baa ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1587237803 10018597 b1cfe654ea3bfd585d8bf07fa4828cfe ""
@@ -214,7 +214,7 @@
   "Chapters/appendices.tex" 1588019899 302 1ba0d457b1136f76a2a2a6848b6d84e6 ""
   "Chapters/conclusion.tex" 1588019899 21 280f3dd7e7b0ad11b6a203fa610792d1 ""
   "Chapters/discussion.tex" 1588033635 2856 4c47a9fb4c663be7884709c3e2e3675d ""
-  "Chapters/eval.tex" 1588089471 10518 8a2153a397b44bbd0bda7db2daee50c4 ""
+  "Chapters/eval.tex" 1588105519 3101 96dd7ee37ca0e78599a4f0058dc1bb09 ""
   "Chapters/introduction.tex" 1588080354 7452 76a4076822c1aab34dc996e5babcdee4 ""
   "Chapters/l_review.tex" 1588036327 4310 53f0e950b60156f64bff52f21e202925 ""
   "Chapters/methodology.tex" 1588033255 2991 74f4b633ae4b494b40b88f7c8f6d75b8 ""
@@ -298,6 +298,7 @@
   "Subsections/artneurons.tex" 1588019899 1660 06f1e7252a4b3dcb40bbdddda08229c1 ""
   "Subsections/backprop.tex" 1588019899 2085 a1ca4f77a135fa5110fe3414de6d0308 ""
   "Subsections/cnn_functioning.tex" 1588019899 1689 f109085764d3e73fcde5b5d6be040d9c ""
+  "Subsections/compari.tex" 1588105520 7444 d508419b6dd46e97dee997695bbc0259 ""
   "Subsections/conventional.tex" 1588019899 2713 f0a1b0055aca2f0e418543bddb7f61c3 ""
   "Subsections/ethical.tex" 1588032001 2757 bd4c946b00d05d60cd93effda6bb78cc ""
   "Subsections/humanbrain.tex" 1588019899 836 bec14d437f433611f6726f2fbc5394da ""
@@ -314,14 +315,14 @@
   "Subsections/normalisation.tex" 1588019899 877 9eee75688c6f370dc94e1f256d7d6ad8 ""
   "Subsections/segmentation.tex" 1588019899 1854 10e4b5f08437af5e8c5bdffbd059eddf ""
   "Subsections/svm.tex" 1588019899 1212 1c401e4ba8b264e217d8dc0e09188a3c ""
-  "main.aux" 1588089485 22426 aaf3eee11a3f90f14286ba3a130b2ed0 "pdflatex"
+  "main.aux" 1588105526 22426 aaf3eee11a3f90f14286ba3a130b2ed0 "pdflatex"
   "main.bbl" 1588089479 7613 2dc44211aa6cfa0171a685f6bb8c7506 "bibtex main"
   "main.tex" 1588025388 1736 9ea0c6d4c90c03deb90d2fb63380e549 ""
-  "main.toc" 1588089485 4520 80e21a6ab43c4e6cbc02826859d9dc37 "pdflatex"
+  "main.toc" 1588105526 4520 80e21a6ab43c4e6cbc02826859d9dc37 "pdflatex"
   (generated)
   "main.aux"
   "main.toc"
-  "main.pdf"
+  "main.log"
   "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.log"
   "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.pdf"
-  "main.log"
+  "main.pdf"
