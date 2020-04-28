@@ -34,14 +34,13 @@ and helps to evaluate the performance measures \citep{geekforgeeks}.
 \subsection{Recall and Precision of Automated System}
 \begin{center}
     Recall = ${ \frac{True Positive} {False Negative + True Positive}}$
-    \label{e1}
 \end{center}
 
 \begin{center}
     Precision = ${ \frac{True Positive} {True Positive + False Positive}}$
 \end{center}
 
-The equation above are be used to obtain the precision and recall values of the 
+The equations above are be used to obtain the precision and recall values of the 
 convolutional neural network. The Precision and recall values are further used 
 to compute the f-measures also known as the f1score to evaluate the performance of 
 automated system. \\ 
@@ -56,5 +55,17 @@ automated system. \\
     \label{fig:ErrorMatrix}
 \end{figure}
 
-The error matrix \ref{fig:ErrorMatrix} was plotted using heatmap in matplotlib
-visualisation library.
+The confusion matrix was computed using the sklearn learn library which requires the predicted values and 
+actual true labels for each pigmented skin lesions. Futhermore the confusion matrix  was plotted using heatmaps
+in the matplotlib visualisation library.
+\pagebreak
+
+\begin{figure}[!htp]
+    \includegraphics[width=\textwidth]{Images/f11.png}
+    \caption{Classification Report of automated system}
+    \label{fig:f11}
+\end{figure}
+
+\pagebreak
+
+\section{Classification Comparison with participants}
