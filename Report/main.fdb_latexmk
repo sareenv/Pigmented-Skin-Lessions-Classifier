@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1588177172 "main.aux" "main.bbl" "main" 1588177179
+["bibtex main"] 1588177172 "main.aux" "main.bbl" "main" 1588177551
   "./References.bib" 1588080324 19774 c13fdcc7d9fed68a4d1abfb88aed5133 ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/bibtex/bst/harvard/agsm.bst" 1587237907 25549 e3d0f1ab4ae55e777f7352db30e2c6f7 ""
-  "main.aux" 1588177178 22934 559aa54f021814077f5c1991e5d98215 "pdflatex"
+  "main.aux" 1588177551 22934 559aa54f021814077f5c1991e5d98215 "pdflatex"
   (generated)
-  "main.blg"
   "main.bbl"
-["pdflatex"] 1588177173 "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.tex" "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.pdf" "main" 1588177179
+  "main.blg"
+["pdflatex"] 1588177544 "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.tex" "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.pdf" "main" 1588177551
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1582889693 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1582889683 1004 54797486969f23fa377b128694d548df ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1582889683 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -194,7 +194,7 @@
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty" 1582889723 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1582889723 57049 74963e80d77be39a0b7442967b27c75b ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1582889724 5114 7b29256db7beb005a4e6eab73b3baa48 ""
-  "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.aux" 1588177178 22934 559aa54f021814077f5c1991e5d98215 ""
+  "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.aux" 1588177551 22934 559aa54f021814077f5c1991e5d98215 ""
   "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.tex" 1588175555 1737 2a3ebb842c03ed6ac5ff8ccee3cb5883 ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1587770486 11548 76574484d744c4127020386cee9d6baa ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1587237803 10018597 b1cfe654ea3bfd585d8bf07fa4828cfe ""
@@ -214,7 +214,7 @@
   "Chapters/appendices.tex" 1588175137 364 97c3ffa8f1474e858aba90707bbbd053 ""
   "Chapters/conclusion.tex" 1588175280 388 7ef36873f2e1b0204af51d9808ca7ae1 ""
   "Chapters/discussion.tex" 1588033635 2856 4c47a9fb4c663be7884709c3e2e3675d ""
-  "Chapters/eval.tex" 1588177165 4816 d0ae1bc8a0733f1b31d7d1597e1988f7 ""
+  "Chapters/eval.tex" 1588177543 5110 99e07d3ef3d4372fe7617805ddfee023 ""
   "Chapters/introduction.tex" 1588112000 7469 b73945c9353d018bd1fcbb68e1a10309 ""
   "Chapters/l_review.tex" 1588036327 4310 53f0e950b60156f64bff52f21e202925 ""
   "Chapters/methodology.tex" 1588033255 2991 74f4b633ae4b494b40b88f7c8f6d75b8 ""
@@ -319,14 +319,14 @@
   "Subsections/normalisation.tex" 1588019899 877 9eee75688c6f370dc94e1f256d7d6ad8 ""
   "Subsections/segmentation.tex" 1588019899 1854 10e4b5f08437af5e8c5bdffbd059eddf ""
   "Subsections/svm.tex" 1588019899 1212 1c401e4ba8b264e217d8dc0e09188a3c ""
-  "main.aux" 1588177178 22934 559aa54f021814077f5c1991e5d98215 "pdflatex"
+  "main.aux" 1588177551 22934 559aa54f021814077f5c1991e5d98215 "pdflatex"
   "main.bbl" 1588177173 7613 2dc44211aa6cfa0171a685f6bb8c7506 "bibtex main"
   "main.tex" 1588175555 1737 2a3ebb842c03ed6ac5ff8ccee3cb5883 ""
-  "main.toc" 1588177178 4735 229a7bbaac1edf03bca32c69156e9bdf "pdflatex"
+  "main.toc" 1588177551 4735 229a7bbaac1edf03bca32c69156e9bdf "pdflatex"
   (generated)
-  "main.toc"
   "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.pdf"
-  "main.log"
   "main.aux"
+  "main.toc"
   "main.pdf"
   "/Users/databunker/Desktop/FR/Final-Year-Project/Report/main.log"
+  "main.log"
