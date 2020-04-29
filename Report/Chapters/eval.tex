@@ -1,5 +1,5 @@
-The description of the analysis where were pefromed during the
-research and helped to achieve the objective of the research.
+The analysis was performed based on the data collected from the participants from the medical background. 
+The evaluation section focuses on test the time efficiency of the artificial neural network in predicting pigmented skin lesions. Furthermore, the confusion matrix and f1 scores are used to analyse the performance of the classification.
 
 \section{Stastical Hypothesis Testing}
 The following independent unpaired stastical testing was peformed using 
@@ -8,10 +8,11 @@ predicting the class of pigmented skin lesions by automated system and
 medical professional. On the otherhand ${H_1}$(alternative hypothesis) = there is 
 a difference in time required to predict pigmented skin lesions.
 \begin{figure}[!htp]
-    \includegraphics[width=15cm]{Images/ttest.png}
+    \includegraphics[width=14cm]{Images/ttest.png}
     \caption{Independent sample t-test}
     \label{fig:istt}
 \end{figure}
+\pagebreak
 
 The figure \ref{fig:istt} shows the results obtained by comparing the 
 means of the time required by the automated system and medical professional to predict pigmented skin 
@@ -65,6 +66,9 @@ in the matplotlib visualisation library.
     \caption{Classification Report of automated system}
     \label{fig:f11}
 \end{figure}
+
+The figure above shows the analysis of the automated system in an attempt to predict pigmented skin lesions. The report above shows precision, recall and f1 score values which indicates the performance in predicting each category of pigmented skin lesions. All further analysis to compare the model performance with participants are evaluated based on the f1 scores for each category of pigmented skin lesion.
+
 
 \pagebreak
 
